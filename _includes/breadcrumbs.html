@@ -1,0 +1,25 @@
+{% assign root_page = site.pages | where: "url", "/" | first %}
+{% assign root_title = root_page.title | default: site.title | default: "Home" %}
+{% assign segments = page.url | split: "/" %}
+{% assign current_path = "" %}
+{% assign separator = " / " %}
+
+<nav class="breadcrumbs">
+    {% if page.url != "/" %}
+    <a href="{{ "/" | relative_url }}">{{ root_title }}</a>
+
+    {% for segment in segments %}
+        {% unless segment == "" %}
+            {% assign current_path = current_path | append: "/" | append: segment %}
+            {% assign ancestor_url = current_path | append: "/" %}
+            {% assign ancestor_page = site.pages | where: "url", ancestor_url | first %}
+
+            {% if ancestor_page and ancestor_url != page.url %}
+    {{ separator }}<a href="{{ ancestor_page.url | relative_url }}">{{ ancestor_page.title }}</a>
+            {% endif %}
+        {% endunless %}
+    {% endfor %}
+    {% endif %}
+
+    {% if page.url != "/" %}{{ separator }}{% endif %}<strong>{{ page.title }}</strong>
+</nav>
