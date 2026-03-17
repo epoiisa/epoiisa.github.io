@@ -66,7 +66,7 @@ parent_url: /albiononline/builds/
 
 ## Incubus Mace
 
-- Incubus Mace (3 4 1 1)
+- Incubus Mace (3 4 1 2)
 - Mistcaller
 - Hellion Hood (3 3)
 - Guardian Armor (3 3 1)
