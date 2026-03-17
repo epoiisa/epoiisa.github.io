@@ -177,7 +177,7 @@ parent_url: /albiononline/builds/
 - 4 × Beef Stew T8.1
 
 **Swaps**
-- Boltcasters (2 3 2 3)
+- Boltcasters (1 2 1 4)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
@@ -222,13 +222,13 @@ parent_url: /albiononline/builds/
 - 4 × Beef Stew T8.1
 
 **Swaps**
-- Boltcasters (2 3 2 3)
+- Boltcasters (1 2 1 4)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
 ## Weeping Repeater
 
-- Weeping Repeater (2 3 2 2)
+- Weeping Repeater (2 3 1 2)
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
 - Royal Sandals (3 2)
@@ -242,7 +242,7 @@ parent_url: /albiononline/builds/
 
 ## Light Crossbow
 
-- Light Crossbow (2 3 2 2)
+- Light Crossbow (2 3 1 2)
 - Cryptcandle
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
