@@ -39,9 +39,10 @@ parent_url: /albiononline/builds/
 
 ## Everyone
 
-- Gallant/Armored Horse
+- DPS weapons and off-hands 1600 IP
+- All other items tier per the graphic
+- Riding/Armored Horse T6+ (Gallant Horse highly recommended)
 - Bag T7
-- Holy Staff T4 with Reawaken
 - 10 × Calming Potion T3.2
 - 20 × Poison Potion T4
 - 5 × *food* + one Pork Pie
