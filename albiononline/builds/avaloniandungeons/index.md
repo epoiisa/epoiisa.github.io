@@ -12,40 +12,48 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-1. [**Main Tank** Truebolt Hammer / Incubus Mace](#truebolt-hammer)
-2. [**Second Tank** Incubus Mace / Rotcaller Staff](#incubus-mace)
-3. [**Support** Great Arcane Staff / Enigmatic Staff](#great-arcane-staff)
+1. [**Main Tank** Truebolt Hammer](#truebolt-hammer)
+2. [**Second Tank** Incubus Mace](#incubus-mace)
+3. [**Support** Great Arcane Staff](#great-arcane-staff)
 4. [**Support** Shadowcaller](#shadowcaller)
-5. [**Main Healer** Forgebark Staff / Holy Staff](#forgebark-staff)
-6. [**Party Healer** Ironroot Staff / Fallen Staff](#ironroot-staff)
-7. [**DPS** Crystal Reaper / Boltcasters](#crystal-reaper)
-8. [**DPS** Chillhowl](#chillhowl)
-9. [**DPS** Lightcaller](#lightcaller)
-10. [**DPS** Blazing Staff (only one) / Boltcasters](#blazing-staff)
-11. [**DPS** Weeping Repeater](#weeping-repeater)
-12. [**DPS** Light Crossbow](#light-crossbow)
+5. [**Main Healer** Forgebark Staff](#forgebark-staff)
+6. [**Party Healer** Ironroot Staff](#ironroot-staff)
+7. [**DPS** Blazing Staff](#blazing-staff)
+8. **DPS**
+9. **DPS**
+10. **DPS**
+11. **DPS**
+12. **DPS**
+13. **Scout**
+
+**DPS fill** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow)
 
 ![](Avalonian%20Dungeons.png)
 
 ## Tier and IP requirements
 
-- Main tank Guardian Armor T8.3
-- Knight Helmet and Guardian Helmet swap T7
-- All other armour items T6.3
-- Capes T4.3
-- Core role weapons and off-hands 1400 IP
-- DPS weapons and off-hands 1600 IP for T8.2 maps (±100 per map tier)
-- Truebolt Hammer 6+ seconds Stun from Hyperstatic (1500 IP)
+- DPS weapons and off-hands 1800 IP
+- All other items tier per the graphic
 
 ## Everyone
 
-- DPS weapons and off-hands 1600 IP
-- All other items tier per the graphic
-- Riding/Armored Horse T6+ (Gallant Horse highly recommended)
+- Gallant Horse (highly recommended) or Armored Horse T7
 - Bag T7
 - 10 × Calming Potion T3.2
 - 20 × Poison Potion T4
 - 5 × *food* + one Pork Pie
+- Fort Sterling Cape
+- Escape set (recommended)
+
+## Escape (example)
+
+- Bloodletter (2 2 1 •) / Mistcaller
+- Guardian Helmet (3 1) / *leather hood* (2 3)
+- Assassin Jacket (3 3)
+- Miner Workboots (4 •)
+- Brescilien Cape / Fort Sterling Cape
+- Invisibility Potion / Gigantify Potion
+- Pork Omelette
 
 ## Truebolt Hammer
 
@@ -67,8 +75,7 @@ parent_url: /albiononline/builds/
 
 ## Incubus Mace
 
-- Incubus Mace (3 4 1 2)
-- Mistcaller
+- Incubus Mace (3 4 1 2) / Mistcaller
 - Hellion Hood (3 3)
 - Guardian Armor (3 3 1)
 - Royal Shoes (2 4)
@@ -90,7 +97,7 @@ parent_url: /albiononline/builds/
 
 ## Great Arcane Staff
 
-- Great Arcane Staff (2 4 1 2)
+- Great Arcane Staff (2 2 1 2)
 - Assassin Hood (3 3)
 - Royal Jacket (3 3)
 - Royal Shoes (2 4)
@@ -110,8 +117,7 @@ parent_url: /albiononline/builds/
 
 ## Shadowcaller
 
-- Shadowcaller (3 1/4 1 3)
-- Mistcaller
+- Shadowcaller (3 1/4 1 3) / Mistcaller
 - Assassin Hood (3 3)
 - Royal Jacket (3 3)
 - Royal Shoes (2 4)
@@ -129,8 +135,7 @@ parent_url: /albiononline/builds/
 
 ## Forgebark Staff
 
-- Forgebark Staff (2 2 1 1)
-- Celestial Censer
+- Forgebark Staff (2 2 1 1) / Celestial Censer
 - Druid Cowl (3 3)
 - Royal Jacket (3 3)
 - *cloth sandals* (2 2)
@@ -151,8 +156,7 @@ parent_url: /albiononline/builds/
 
 ## Ironroot Staff
 
-- Ironroot Staff (2 2 1 1)
-- Mistcaller
+- Ironroot Staff (2 2 1 1) / Mistcaller
 - Assassin Hood (3 2)
 - Royal Robe (3 3)
 - Royal Shoes (2 4)
@@ -183,21 +187,6 @@ parent_url: /albiononline/builds/
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
-## Chillhowl
-
-- Chillhowl (2 5 1 3)
-- Cryptcandle
-- Royal Cowl (3 1)
-- Scholar Robe (3 1)
-- Royal Sandals (3 2)
-- Morgana Cape
-- 10 × Calming Potion T3.2
-- 4 × Beef Stew T8.1
-
-**Swaps**
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
 ## Lightcaller
 
 - Lightcaller (4 1 1 4)
@@ -205,6 +194,20 @@ parent_url: /albiononline/builds/
 - Druid Robe (3 1)
 - Royal Sandals (3 2) / Stalker Shoes (3 2)
 - Caerleon Cape
+- 10 × Calming Potion T3.2
+- 4 × Beef Stew T8.1
+
+**Swaps**
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+## Chillhowl
+
+- Chillhowl (2 5 1 3) / Cryptcandle
+- Royal Cowl (3 1)
+- Scholar Robe (3 1)
+- Royal Sandals (3 2)
+- Morgana Cape
 - 10 × Calming Potion T3.2
 - 4 × Beef Stew T8.1
 
@@ -243,8 +246,7 @@ parent_url: /albiononline/builds/
 
 ## Light Crossbow
 
-- Light Crossbow (2 3 1 2)
-- Cryptcandle
+- Light Crossbow (2 3 1 2) / Cryptcandle
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
 - Royal Sandals (3 2)
