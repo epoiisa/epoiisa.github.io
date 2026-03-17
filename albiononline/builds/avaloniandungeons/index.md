@@ -228,7 +228,7 @@ parent_url: /albiononline/builds/
 
 ## Weeping Repeater
 
-- Weeping Repeater (2 3 2 3)
+- Weeping Repeater (2 3 2 2)
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
 - Royal Sandals (3 2)
@@ -242,7 +242,7 @@ parent_url: /albiononline/builds/
 
 ## Light Crossbow
 
-- Light Crossbow (2 3 2 3)
+- Light Crossbow (2 3 2 2)
 - Cryptcandle
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
