@@ -10,13 +10,13 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-- **Dismount** Claws
-- **Dismount/DPS** Bear Paws
-- **Catch** Grailseeker
-- **DPS** Cursed Staff
-- **Healer** Hallowfall
-- **Fill Catch/DPS** Frost Staff
-- **Fill DPS** Dagger Pair / Deathgivers / Bloodletter
+- **Dismount** [Claws](#claws)
+- **Dismount/DPS** [Bear Paws](#bear-paws)
+- **Catch** [Grailseeker](#grailseeker)
+- **DPS** [Cursed Staff](#cursed-staff)
+- **Healer** [Hallowfall](#hallowfall)
+- **Fill Catch/DPS** [Frost Staff](#frost-staff)
+- **Fill DPS** [Dagger Pair](#dagger-pair) / [Deathgivers](#deathgivers) / [Bloodletter](#bloodletter)
 
 ![](Ganking.png)
 
@@ -85,10 +85,10 @@ parent_url: /albiononline/builds/
 ## Frost Staff
 
 - Frost Staff (3 2 1 1) / Leering Cane
-- Helmet of Valor (3 2)
-- Assassin Jacket (3 3)
-- Soldier Boots (3 3)
-- Thetford Cape
+- Skinner Cap (4 •)
+- Graveguard Armor (3 2 1)
+- Hunter Shoes (3 2)
+- Demon Cape
 - Sticky Potion
 - Pork Omelette
 
