@@ -31,7 +31,7 @@ parent_url: /albiononline/builds/
 ## Tier and IP requirements
 
 - DPS weapons and off-hands 1600 IP
-- Holy Staff 1600 IP
+- Holy Staff and Specter Jacket 1600 IP
 - All other items equivalent tier per the graphic
 
 ## Everyone
