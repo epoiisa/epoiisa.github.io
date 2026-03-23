@@ -12,28 +12,27 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-1. [**Main Tank** Truebolt Hammer](#truebolt-hammer)
-2. [**Second Tank** Incubus Mace](#incubus-mace)
-3. [**Support** Great Arcane Staff](#great-arcane-staff)
-4. [**Support** Shadowcaller](#shadowcaller)
-5. [**Main Healer** Forgebark Staff](#forgebark-staff)
-6. [**Party Healer** Ironroot Staff](#ironroot-staff)
+1. [**Main Tank**](#main-tank)
+2. [**Second Tank**](#second-tank)
+3. [Great Arcane Staff](#great-arcane-staff)
+4. [**Main Healer**](#party-healer)
+5. [**Party Healer**](#party-healer)
+6. [**DPS** Shadowcaller](#shadowcaller)
 7. [**DPS** Blazing Staff](#blazing-staff)
 8. **DPS**
 9. **DPS**
 10. **DPS**
 11. **DPS**
-12. **DPS**
-13. **Scout**
 
-**DPS fill** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow)
+**DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
 
 ![](Avalonian%20Dungeons.png)
 
 ## Tier and IP requirements
 
-- DPS weapons and off-hands 1800 IP
-- All other items tier per the graphic
+- DPS weapons and off-hands 1600 IP
+- Holy Staff 1600 IP
+- All other items equivalent tier per the graphic
 
 ## Everyone
 
@@ -55,9 +54,9 @@ parent_url: /albiononline/builds/
 - Invisibility Potion / Gigantify Potion
 - Pork Omelette
 
-## Truebolt Hammer
+## Main Tank
 
-- Truebolt Hammer (1 5 1 4)
+- Hammer (1 5 1 4) / Truebolt Hammer (1 5 1 4)
 - Soldier Helmet (3 2)
 - Guardian Armor (2 2 2)
 - Hunter Shoes (3 4)
@@ -73,7 +72,7 @@ parent_url: /albiononline/builds/
 - Lymhurst Cape
 - 20 × Poison Potion T4
 
-## Incubus Mace
+## Second Tank
 
 - Incubus Mace (3 4 1 2) / Mistcaller
 - Hellion Hood (3 3)
@@ -112,13 +111,10 @@ parent_url: /albiononline/builds/
 - Knight Helmet (3 1)
 - 20 × Poison Potion T4
 
-**Notes**
-- Ready second Time Freeze (E) ASAP every pull.
+## Main Healer
 
-## Shadowcaller
-
-- Shadowcaller (3 1/4 1 3) / Mistcaller
-- Assassin Hood (3 3)
+- Ironroot Staff (1 2 1 1) / Celestial Censer
+- Druid Cowl (3 3)
 - Royal Jacket (3 3)
 - Royal Shoes (2 4)
 - Lymhurst Cape
@@ -126,37 +122,15 @@ parent_url: /albiononline/builds/
 - 4 × Pork Omelette T8.1
 
 **Swaps**
-- Knight Helmet (3 1)
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
-**Notes**
-- Damage resistance reduction does not apply while Great Arcane Staff Time Freeze is active.
-
-## Forgebark Staff
-
-- Forgebark Staff (2 2 1 1) / Celestial Censer
-- Druid Cowl (3 3)
-- Royal Jacket (3 3)
-- *cloth sandals* (2 2)
-- Lymhurst Cape
-- 10 × Calming Potion T3.2
-- 4 × Pork Omelette T8.1
-
-**Swaps**
 - Holy Staff (1 2 1 1 / Priestess 3 2 / Archmage 1 5)
-- Eye of Secrets
 - Cleric Robe (3 1)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
-**Notes**
-- Always use Ensnare (damage E) on group.
+## Party Healer
 
-## Ironroot Staff
-
-- Ironroot Staff (2 2 1 1) / Mistcaller
+- Ironroot Staff (1 2 1 1) / Mistcaller
 - Assassin Hood (3 2)
 - Royal Robe (3 3)
 - Royal Shoes (2 4)
@@ -168,6 +142,40 @@ parent_url: /albiononline/builds/
 - Fallen Staff (3 5 1 1)
 - Druid Cowl (3 1)
 - Knight Helmet (3 1)
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+## Shadowcaller
+
+- Shadowcaller (3 1 1 3) / Cryptcandle
+- Assassin Hood (3 1)
+- Specter Jacket (3 1)
+- Specter Shoes (3 2)
+- Lymhurst Cape
+- 10 × Calming Potion T3.2
+- 4 × Beef Stew T8.1
+
+**Swaps**
+- Royal Jacket (3 3)
+- Knight Helmet (3 1)
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+**Notes**
+- Damage resistance reduction (W) does not apply while Great Arcane Staff *Time Freeze* is active.
+
+## Blazing Staff
+
+- Blazing Staff (2 3 1 4)
+- Assassin Hood (3 1)
+- Druid Robe (3 1)
+- Royal Sandals (3 2) / Stalker Shoes (3 2)
+- Caerleon Cape
+- 10 × Calming Potion T3.2
+- 4 × Beef Stew T8.1
+
+**Swaps**
+- Boltcasters (1 2 1 4)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
@@ -215,21 +223,6 @@ parent_url: /albiononline/builds/
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
-## Blazing Staff
-
-- Blazing Staff (2 3 1 4)
-- Assassin Hood (3 1)
-- Druid Robe (3 1)
-- Royal Sandals (3 2) / Stalker Shoes (3 2)
-- Caerleon Cape
-- 10 × Calming Potion T3.2
-- 4 × Beef Stew T8.1
-
-**Swaps**
-- Boltcasters (1 2 1 4)
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
 ## Weeping Repeater
 
 - Weeping Repeater (2 3 1 2)
@@ -247,6 +240,20 @@ parent_url: /albiononline/builds/
 ## Light Crossbow
 
 - Light Crossbow (2 3 1 2) / Cryptcandle
+- Druid Cowl (3 1)
+- Druid Robe (3 1)
+- Royal Sandals (3 2)
+- Caerleon Cape
+- 10 × Calming Potion T3.2
+- 4 × Beef Stew T8.1
+
+**Swaps**
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+## Mistpiercer
+
+- Mistpiercer (2 3 1 3)
 - Druid Cowl (3 1)
 - Druid Robe (3 1)
 - Royal Sandals (3 2)
