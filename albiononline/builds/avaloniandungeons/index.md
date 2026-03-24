@@ -131,7 +131,7 @@ parent_url: /albiononline/builds/
 ## Party Healer
 
 - Ironroot Staff (1 2 1 1) / Mistcaller
-- Assassin Hood (3 2)
+- Assassin Hood (3 3)
 - Royal Robe (3 3)
 - Royal Shoes (2 4)
 - Lymhurst Cape
@@ -148,9 +148,9 @@ parent_url: /albiononline/builds/
 ## Shadowcaller
 
 - Shadowcaller (3 1 1 3) / Cryptcandle
-- Assassin Hood (3 1)
+- Assassin Hood (3 3) / Stalker Hood (3 1)
 - Specter Jacket (3 1)
-- Specter Shoes (3 2)
+- Specter Shoes (3 2) / Cultist Sandals (3 2)
 - Lymhurst Cape
 - 10 × Calming Potion T3.2
 - 4 × Beef Stew T8.1
@@ -295,17 +295,17 @@ parent_url: /albiononline/builds/
 ### High Priestess (Piñata)
 
 - Guardian Helmets (3 1) except Second Tank and GA
-- Main Tank switch to Threatening Strike, Power Geyser and Enfeeble Aura
-- Second Tank switch to Sacred Ground
+- Main Tank switch to Threatening Strike and Power Geyser
+- Second Tank switch to Sacred Ground and swap to Royal Robe
 - Great Arcane switch to Motivating Cleanse (use at start)
-- Forgebark Staff swap to Holy Staff (3 2 1 1)
+- Main Healer swap to Holy Staff (3 2 1 1)
 
 ### Archmage (Dancing Queen)
 
 - Knight Helmets (3 1) and Guardian Helmets (3 1)
 - Main Tank switch to Dodge Roll
-- Second Tank switch to Guard Rune
-- Main Healer swap to Holy Staff (1 5 1 1)
+- Second Tank switch to Defensive Slam and Guard Rune
+- Main Healer swap to Holy Staff (3 5 1 1)
 - Ironroot Staff swap to Fallen Staff (3 5 1 1)
 - Both healers should be on Reawaken
 - Crystal Reaper swap to Boltcasters (2 3 2 3)
@@ -313,11 +313,11 @@ parent_url: /albiononline/builds/
 ### Basilisk
 
 - Everyone switch to Dodge Roll
-- Knight Helmets (3 1) and Guardian Helmets (3 1) except Enigmatic Staff
-- Main Tank swap to Black Monk Stave (2 3 1 2)
-- Second Tank switch to Defensive Slam and Guard Rune
+- Main Tank swap to Black Monk Stave (1 3 1 2)
+- Second Tank switch to Defensive Slam and Guard Rune and swap to Knight Helmet
 - Great Arcane Staff swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
 - Crystal Reaper swap to Boltcasters (2 3 2 3)
+- Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
 
 **Notes**
 - At 60%, the mage casts an ability that uses the Cleric Robe icon. Stack for the first burst and use Fallen Staff E. Spread for the second burst and use Black Monk staff W/E and Guardian Armor.
