@@ -56,7 +56,7 @@ parent_url: /albiononline/builds/
 
 ## Main Tank
 
-- Hammer (1 5 1 4) / Truebolt Hammer (1 5 1 4)
+- Hammer (1 5 1 4) Leering Cane / Truebolt Hammer (1 5 1 4)
 - Soldier Helmet (3 2)
 - Guardian Armor (2 2 2)
 - Hunter Shoes (3 4)

@@ -72,7 +72,7 @@ parent_url: /albiononline/builds/
 
 ## Enigmatic Staff
 
-- Enigmatic Staff (2 3 1 4)
+- Enigmatic Staff (2 2 1 3)
 - Guardian Helmet (3 1)
 - Royal Jacket (3 3)
 - Knight Boots (3 2)
