@@ -70,7 +70,6 @@ parent_url: /albiononline/builds/
 - Guardian Helmet (3 1)
 - *cloth sandals* (2 4)
 - Lymhurst Cape
-- 20 × Poison Potion T4
 
 ## Second Tank
 
@@ -88,7 +87,6 @@ parent_url: /albiononline/builds/
 - Royal Jacket (3 3)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 **Notes**
 - Shrinking Curse (E) does not apply while Great Arcane Staff *Time Freeze* is active.
@@ -110,7 +108,6 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 1)
 - Guardian Helmet (3 1)
 - Knight Helmet (3 1)
-- 20 × Poison Potion T4
 
 ## Main Healer
 
@@ -125,7 +122,6 @@ parent_url: /albiononline/builds/
 **Swaps**
 - Holy Staff (1 2 1 1 / Priestess 3 2 / Archmage 1 5)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 ## Party Healer
 
@@ -140,7 +136,6 @@ parent_url: /albiononline/builds/
 **Swaps**
 - Fallen Staff (3 5 1 1)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 ## Shadowcaller
 
@@ -170,7 +165,7 @@ parent_url: /albiononline/builds/
 - 4 × Beef Stew T8.1
 
 **Swaps**
-- Wildfire Staff (1 2 1 4) / Cryptcandle
+- Wildfire Staff (1 2 1 4) Cryptcandle
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
