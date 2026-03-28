@@ -66,7 +66,7 @@ parent_url: /albiononline/builds/
 
 **Swaps**
 - Black Monk Stave (1 3 1 2)
-- Incubus Mace (2 3 1 2) / Sarcophagus
+- Incubus Mace (2 3 1 2) Sarcophagus
 - Guardian Helmet (3 1)
 - *cloth sandals* (2 4)
 - Lymhurst Cape
@@ -74,7 +74,7 @@ parent_url: /albiononline/builds/
 
 ## Second Tank
 
-- Incubus Mace (3 4 1 2) / Mistcaller
+- Incubus Mace (3 4 1 2) Mistcaller
 - Hellion Hood (3 3)
 - Guardian Armor (3 3 1)
 - Royal Shoes (2 4)
@@ -108,6 +108,7 @@ parent_url: /albiononline/builds/
 - Fallen Staff (3 5 1 1)
 - Enigmatic Staff (2 2 1 •)
 - Judicator Armor (3 1 1)
+- Guardian Helmet (3 1)
 - Knight Helmet (3 1)
 - 20 × Poison Potion T4
 
@@ -115,23 +116,6 @@ parent_url: /albiononline/builds/
 
 - Ironroot Staff (1 2 1 1) / Celestial Censer
 - Druid Cowl (3 3)
-- Royal Jacket (3 3)
-- Royal Shoes (2 4)
-- Lymhurst Cape
-- 10 × Calming Potion T3.2
-- 4 × Pork Omelette T8.1
-
-**Swaps**
-- Holy Staff (1 2 1 1 / Priestess 3 2 / Archmage 1 5)
-- Cleric Robe (3 1)
-- Knight Helmet (3 1)
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
-## Party Healer
-
-- Ironroot Staff (1 2 1 1) / Mistcaller
-- Assassin Hood (3 3)
 - Royal Robe (3 3)
 - Royal Shoes (2 4)
 - Lymhurst Cape
@@ -139,9 +123,22 @@ parent_url: /albiononline/builds/
 - 4 × Pork Omelette T8.1
 
 **Swaps**
+- Holy Staff (1 2 1 1 / Priestess 3 2 / Archmage 1 5)
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+## Party Healer
+
+- Ironroot Staff (1 2 1 1) / Mistcaller
+- Assassin Hood (3 3)
+- Royal Jacket (3 3)
+- Royal Shoes (2 4)
+- Lymhurst Cape
+- 10 × Calming Potion T3.2
+- 4 × Pork Omelette T8.1
+
+**Swaps**
 - Fallen Staff (3 5 1 1)
-- Druid Cowl (3 1)
-- Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
@@ -156,8 +153,6 @@ parent_url: /albiononline/builds/
 - 4 × Beef Stew T8.1
 
 **Swaps**
-- Royal Jacket (3 3)
-- Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
@@ -175,7 +170,7 @@ parent_url: /albiononline/builds/
 - 4 × Beef Stew T8.1
 
 **Swaps**
-- Boltcasters (1 2 1 4)
+- Wildfire Staff (1 2 1 4) / Cryptcandle
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
