@@ -6,32 +6,24 @@ permalink: /albiononline/guides/dragon-sanctuary/
 
 # Dragon Sanctuary
 
-This guide covers the main clear, Maeve and Azaryon using the party roles below.
-
-Mechanics: [Maeve](../../mechanics/dragon-sanctuary/maeve/) • [Azaryon](../../mechanics/dragon-sanctuary/azaryon/)
+| Builds | Mechanics |
+|--|--|
+| [Dragon Sanctuary](../../builds/dragon-sanctuary/) | [Maeve](../../mechanics/dragon-sanctuary/maeve/) • [Fire Drake](../../mechanics/dragon-sanctuary/fire-drake/) • [Azaryon](../../mechanics/dragon-sanctuary/azaryon/) |
 
 ## Roles
 
-1. Main Tank
-2. Support Tank
-3. Main Healer
-4. Party Healer 1
-5. Party Healer 2
-6. Ironroot Staff 1 / Party Healer 3
-7. Ironroot Staff 2 / Party Healer 4
-8. Enigmatic Staff 1
-9. Enigmatic Staff 2
-10. Shadowcaller
-11. Blazing Staff
-12. DPS
-13. DPS
-14. DPS
-15. DPS
-16. DPS
-17. DPS
-18. DPS
-19. DPS
-20. DPS
+- Main Tank
+- Support Tank
+- Main Healer
+- Party Healer 1
+- Party Healer 2
+- Ironroot Staff 1 / Party Healer 3
+- Ironroot Staff 2 / Party Healer 4
+- Enigmatic Staff 1
+- Enigmatic Staff 2
+- Shadowcaller
+- Blazing Staff
+- 9 × other DPS (Weeping Repeater preferred)
 
 ## Clear
 
