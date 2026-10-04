@@ -1,0 +1,134 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "source_texture": "resources.assets / SpellAtlas",
+  "source_spells": "StreamingAssets/GameData/spells.bin",
+  "icons": [
+    {
+      "boss": "basilisk",
+      "filename": "bite-attack.png",
+      "spell": "MOB_AVALON_BASILISK_AUTOATTACK",
+      "uisprite": "MELEE_DEBUFF",
+      "label": "Bite Attack",
+      "rectangle": {
+        "x": 2505,
+        "y": 3546,
+        "width": 108,
+        "height": 107
+      },
+      "sha256": "952be2a4021b63d52e022e445cf0a3d094903ceed2c954f08dcabe66cd505bcb"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "petrify.png",
+      "spell": "MOB_AVALON_BASILISK_PETRIFY",
+      "uisprite": "GIANTSTEPS",
+      "label": "Petrify",
+      "rectangle": {
+        "x": 2945,
+        "y": 3440,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "1adb09ee4e6d3e8607d2d424ab1545a2dd0c5333ff8af33c14af4d44dc7c9dab"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "tailsmash.png",
+      "spell": "MOB_AVALON_BASILISK_TAILSMASH",
+      "uisprite": "MOUNTSPELL_BIGCLEAVE",
+      "label": "Tailsmash",
+      "rectangle": {
+        "x": 1499,
+        "y": 3225,
+        "width": 104,
+        "height": 103
+      },
+      "sha256": "4cb50b2a246336653a50abd91fecd55351a549a0310b6ef44bf3139f138c1490"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "cleansing-fire.png",
+      "spell": "MOB_AVALON_BASILISK_CLEANSINGFIRE",
+      "uisprite": "NOVA_HOLY",
+      "label": "Cleansing Fire",
+      "rectangle": {
+        "x": 3730,
+        "y": 3658,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "4c8b337654348739005277dbd7c88d09382f06a05e152cb7c21857741bdf827e"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "windwall.png",
+      "spell": "MOB_AVALON_BASILISK_RIDER_PUSH",
+      "uisprite": "STONE_SHIELD",
+      "label": "Windwall",
+      "rectangle": {
+        "x": 2108,
+        "y": 3225,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "59ddd414132c4c11363198a59891f8de0effe9a6dd0d29ec35fd1e6df7721edd"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "divine-overcharge.png",
+      "spell": "MOB_AVALON_BASILISK_OVERCHARGE",
+      "uisprite": "PURGE_HOLY",
+      "label": "Divine Overcharge",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "divine-pulse.png",
+      "spell": "MOB_AVALON_BASILISK_OVERCHARGE_PULSE_EFFECT",
+      "uisprite": "PURGE_HOLY",
+      "label": "Divine Pulse",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "divine-crystal-resonance.png",
+      "spell": "MOB_AVALON_BASILISK_RESONANCE",
+      "uisprite": "AOE_HOLY",
+      "label": "Divine Crystal Resonance",
+      "rectangle": {
+        "x": 2681,
+        "y": 3331,
+        "width": 103,
+        "height": 108
+      },
+      "sha256": "470d58e7a9719aed81de03cff6e762494e1d532a6e510cef93282d4bf34e72ae"
+    },
+    {
+      "boss": "basilisk",
+      "filename": "purifying-circle.png",
+      "spell": "MOB_AVALON_BASILISK_CLEANSE",
+      "uisprite": "PURGE_HOLY",
+      "label": "Purifying circle",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    }
+  ]
+}

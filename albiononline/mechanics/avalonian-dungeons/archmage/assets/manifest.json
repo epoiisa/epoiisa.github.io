@@ -1,0 +1,106 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "source_texture": "resources.assets / SpellAtlas",
+  "source_spells": "StreamingAssets/GameData/spells.bin",
+  "icons": [
+    {
+      "boss": "archmage",
+      "filename": "radial-limiter.png",
+      "spell": "MOB_AVALON_ARCHMAGE_RECHARGEPHASE",
+      "uisprite": "PURGE_HOLY",
+      "label": "Radial Limiter",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    },
+    {
+      "boss": "archmage",
+      "filename": "disruptive-energy.png",
+      "spell": "MOB_AVALON_ARCHMAGE_TORNADO_EFFECT",
+      "uisprite": "TORNADO",
+      "label": "Disruptive Energy",
+      "rectangle": {
+        "x": 529,
+        "y": 2775,
+        "width": 104,
+        "height": 103
+      },
+      "sha256": "9547f3d38a2814cb46a0857e4dca45de236609c84d1a6695c84f729eb6171375"
+    },
+    {
+      "boss": "archmage",
+      "filename": "skybeam.png",
+      "spell": "MOB_AVALON_ARCHMAGE_SKYBEAM_EFFECT",
+      "uisprite": "NOVA_HOLY",
+      "label": "Skybeam",
+      "rectangle": {
+        "x": 3730,
+        "y": 3658,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "4c8b337654348739005277dbd7c88d09382f06a05e152cb7c21857741bdf827e"
+    },
+    {
+      "boss": "archmage",
+      "filename": "disintegrate.png",
+      "spell": "MOB_AVALON_ARCHMAGE_TANKBEAM",
+      "uisprite": "BEAM_HOLY",
+      "label": "Disintegrate",
+      "rectangle": {
+        "x": 1810,
+        "y": 3545,
+        "width": 108,
+        "height": 107
+      },
+      "sha256": "13ff2861963b51c05af41d88e652f6c6eae1c0194ada01c0f03842d9a2606171"
+    },
+    {
+      "boss": "archmage",
+      "filename": "avalonian-radiance.png",
+      "spell": "MOB_AVALON_ARCHMAGE_LASER_EFFECT_DAMAGE",
+      "uisprite": "BEAM_HOLY",
+      "label": "Avalonian Radiance",
+      "rectangle": {
+        "x": 1810,
+        "y": 3545,
+        "width": 108,
+        "height": 107
+      },
+      "sha256": "13ff2861963b51c05af41d88e652f6c6eae1c0194ada01c0f03842d9a2606171"
+    },
+    {
+      "boss": "archmage",
+      "filename": "energy-emission.png",
+      "spell": "MOB_AVALON_ARCHMAGE_CASTBUBBLE",
+      "uisprite": "BEAM_HOLY",
+      "label": "Energy Emission",
+      "rectangle": {
+        "x": 1810,
+        "y": 3545,
+        "width": 108,
+        "height": 107
+      },
+      "sha256": "13ff2861963b51c05af41d88e652f6c6eae1c0194ada01c0f03842d9a2606171"
+    },
+    {
+      "boss": "archmage",
+      "filename": "burst.png",
+      "spell": "MOB_AVALON_ARCHMAGE_BULLETHELLPHASE_EFFECT",
+      "uisprite": "SALVATION",
+      "label": "Burst",
+      "rectangle": {
+        "x": 2440,
+        "y": 2179,
+        "width": 102,
+        "height": 101
+      },
+      "sha256": "6614d1d4d2c1898f568889267fd1a0b23c12e57e5ab8ba4e3fba5102946911bc"
+    }
+  ]
+}

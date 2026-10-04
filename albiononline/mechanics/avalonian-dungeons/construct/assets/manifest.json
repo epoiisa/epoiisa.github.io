@@ -1,0 +1,148 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "source_texture": "resources.assets / SpellAtlas",
+  "source_spells": "StreamingAssets/GameData/spells.bin",
+  "icons": [
+    {
+      "boss": "construct",
+      "filename": "devastating-smashes.png",
+      "spell": "MOB_AVALON_CONSTRUCT_WIND_UP_HIT",
+      "uisprite": "OVERCHARGE",
+      "label": "Devastating Smashes",
+      "rectangle": {
+        "x": 2778,
+        "y": 3122,
+        "width": 104,
+        "height": 104
+      },
+      "sha256": "11b4d7089bb01d2f0104fb56326f85c5bcf92eac572e23a8bdb854435f6c9159"
+    },
+    {
+      "boss": "construct",
+      "filename": "debris.png",
+      "spell": "MOB_AVALON_CONSTRUCT_TREMORWALK_HIT_STONE",
+      "uisprite": "ARCANE_METEOR",
+      "label": "Debris",
+      "rectangle": {
+        "x": 1155,
+        "y": 2061,
+        "width": 103,
+        "height": 102
+      },
+      "sha256": "9635466b3d959b438dcddff5d9726f4614fb32e2e7c04d6665655a132c88c96f"
+    },
+    {
+      "boss": "construct",
+      "filename": "colossal-swipe.png",
+      "spell": "MOB_AVALON_CONSTRUCT_SWIPE_KNOCKBACK",
+      "uisprite": "MELEEWHIRLWIND",
+      "label": "Colossal Swipe",
+      "rectangle": {
+        "x": 845,
+        "y": 2665,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "e0c2c0efeb4a905206982d3a5d1d0584313c5fdd7706c0048c48dd8eef06162e"
+    },
+    {
+      "boss": "construct",
+      "filename": "targeting.png",
+      "spell": "MOB_AVALON_CONSTRUCT_WARD_MODE_TARGETING",
+      "uisprite": "MONITORED_DEBUFF",
+      "label": "Targeting",
+      "rectangle": {
+        "x": 1050,
+        "y": 2166,
+        "width": 103,
+        "height": 103
+      },
+      "sha256": "77511941c25b58f890712ae0034cf61ebc7c99af38e21d2ccbf40a19248c8fb3"
+    },
+    {
+      "boss": "construct",
+      "filename": "energy-field.png",
+      "spell": "MOB_AVALON_CONSTRUCT_WARD_MODE_FIRE_AREA",
+      "uisprite": "AOE_HOLY",
+      "label": "Energy Field",
+      "rectangle": {
+        "x": 2681,
+        "y": 3331,
+        "width": 103,
+        "height": 108
+      },
+      "sha256": "470d58e7a9719aed81de03cff6e762494e1d532a6e510cef93282d4bf34e72ae"
+    },
+    {
+      "boss": "construct",
+      "filename": "compensator-energy.png",
+      "spell": "MOB_AVALON_CONSTRUCT_ENERGY_STACK",
+      "uisprite": "STORMSHIELD",
+      "label": "Compensator Energy",
+      "rectangle": {
+        "x": 2738,
+        "y": 3873,
+        "width": 109,
+        "height": 109
+      },
+      "sha256": "f41c39793d490986ca9ec3c70d094ee550035ddc47663fd3b471d55e513d7f16"
+    },
+    {
+      "boss": "construct",
+      "filename": "energy-discharge.png",
+      "spell": "MOB_AVALON_CONSTRUCT_ENERGY_OVERFLOW",
+      "uisprite": "FIREWORKYELLOW",
+      "label": "Energy Discharge",
+      "rectangle": {
+        "x": 2765,
+        "y": 2182,
+        "width": 102,
+        "height": 101
+      },
+      "sha256": "0f66a6d9a699cc46a93b71a25888d7968ebe57f29a63cd9cf973e5f17fc4089b"
+    },
+    {
+      "boss": "construct",
+      "filename": "avalonian-beam.png",
+      "spell": "MOB_AVALON_CONSTRUCT_BEAM_SHOT_EFFECT",
+      "uisprite": "DIVINE_SHOT",
+      "label": "Avalonian Beam",
+      "rectangle": {
+        "x": 3679,
+        "y": 2804,
+        "width": 102,
+        "height": 102
+      },
+      "sha256": "804a5c3da78c6ff7f2a99590e8f0eaa0deffce1b483673782fdf881b8fca0a84"
+    },
+    {
+      "boss": "construct",
+      "filename": "energy-deficiency.png",
+      "spell": "MOB_AVALON_CONSTRUCT_MALFUNCTION",
+      "uisprite": "STALE_COOLDOWN",
+      "label": "Energy Deficiency",
+      "rectangle": {
+        "x": 3510,
+        "y": 3658,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "cbb80d1d2292e675b97365dd67878b8490d13bd677a4697fae547224d897caf1"
+    },
+    {
+      "boss": "construct",
+      "filename": "adapted-fighting-protocol.png",
+      "spell": "MOB_AVALON_CONSTRUCT_ADAPT",
+      "uisprite": "GIANTSTEPS",
+      "label": "Adapted Fighting Protocol",
+      "rectangle": {
+        "x": 2945,
+        "y": 3440,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "1adb09ee4e6d3e8607d2d424ab1545a2dd0c5333ff8af33c14af4d44dc7c9dab"
+    }
+  ]
+}

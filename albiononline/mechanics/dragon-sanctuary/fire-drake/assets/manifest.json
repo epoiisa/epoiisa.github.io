@@ -1,0 +1,110 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "tool": {
+    "name": "UnityPy",
+    "version": "1.25.3"
+  },
+  "source_texture": "Contents/Resources/Data/resources.assets / SpellAtlas",
+  "source_texture_payload": "Contents/Resources/Data/resources.assets.resS",
+  "source_spells": "Contents/Resources/Data/StreamingAssets/GameData/spells.bin",
+  "atlas_size": {
+    "width": 4096,
+    "height": 4096
+  },
+  "rectangle_coordinates": "Pixels from the top-left of the upright image returned by UnityPy Texture2D.image; x increases right and y increases down. Rectangles read from the current SpellAtlas MonoBehaviour metadata.",
+  "icons": [
+    {
+      "label": "Claw Swipe",
+      "filename": "claw-swipe.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_SWIPE_LEFT",
+        "MOB_DRAGON_DRAKE_SWIPE_RIGHT"
+      ],
+      "uisprite": "BLOOD_DROP",
+      "rectangle": {
+        "x": 2093,
+        "y": 2907,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "f7c25abc27bb631e582845c83b3eb5b9368fc6ff4cc42fc7ce95c95f8d12296a"
+    },
+    {
+      "label": "Bite",
+      "filename": "bite.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_BITE"
+      ],
+      "uisprite": "POISON_SPIRITS",
+      "rectangle": {
+        "x": 955,
+        "y": 2771,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "be7cf22d9698e78a63b5977e6ded89a732d3e1724cd94177377a89913db948c2"
+    },
+    {
+      "label": "Wing Strike",
+      "filename": "wing-strike.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_GUST"
+      ],
+      "uisprite": "WINDWALL",
+      "rectangle": {
+        "x": 3418,
+        "y": 2492,
+        "width": 102,
+        "height": 101
+      },
+      "sha256": "b2a70dd650387341b5211033d510ef5b20f24ca97167a358794ce0d6dd0e703a"
+    },
+    {
+      "label": "Onslaught",
+      "filename": "onslaught.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_DASH"
+      ],
+      "uisprite": "WILD_ONSLAUGHT",
+      "rectangle": {
+        "x": 1088,
+        "y": 3010,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "b7d083946589ff66d6c1aeda5e92500e762bc76258c6ae1946909b406245222e"
+    },
+    {
+      "label": "Fire Breath",
+      "filename": "fire-breath.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_BREATH_ATTACK_LEFT",
+        "MOB_DRAGON_DRAKE_BREATH_ATTACK_RIGHT"
+      ],
+      "uisprite": "FLAMECONE",
+      "rectangle": {
+        "x": 3404,
+        "y": 3873,
+        "width": 107,
+        "height": 109
+      },
+      "sha256": "6387b743ea3ded0e0a9e7588044b1cbe8af9ac30e10931f46fc5e1d72725a263"
+    },
+    {
+      "label": "Lava",
+      "filename": "lava.png",
+      "spells": [
+        "MOB_DRAGON_DRAKE_FIREBALL"
+      ],
+      "uisprite": "FIREBALL",
+      "rectangle": {
+        "x": 3071,
+        "y": 3766,
+        "width": 109,
+        "height": 107
+      },
+      "sha256": "5a122700a36596b6c27fb921a0120f4d8d7cc7994a6a94f6cf330bea8c9fb773"
+    }
+  ]
+}

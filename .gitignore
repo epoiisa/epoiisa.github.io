@@ -1,0 +1,7 @@
+/.preview/
+/.bundle/
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+.DS_Store

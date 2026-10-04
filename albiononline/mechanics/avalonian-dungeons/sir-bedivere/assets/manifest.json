@@ -1,0 +1,120 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "source_texture": "resources.assets / SpellAtlas",
+  "source_spells": "StreamingAssets/GameData/spells.bin",
+  "icons": [
+    {
+      "boss": "sir-bedivere",
+      "filename": "avalonian-cleave.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_AUTOATTACK",
+      "uisprite": "WHIRLWIND_SWORD",
+      "label": "Avalonian Cleave",
+      "rectangle": {
+        "x": 3625,
+        "y": 3550,
+        "width": 108,
+        "height": 106
+      },
+      "sha256": "5e5b4659e4cf00f38865371a09eb233f721d4e03e47540b6fa0b2cd626ec8df8"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "fate-of-the-unworthy.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_AURA_PULSE_EFFECT_DAMAGE",
+      "uisprite": "BUFF_CCR",
+      "label": "Fate of the Unworthy",
+      "rectangle": {
+        "x": 1549,
+        "y": 3651,
+        "width": 109,
+        "height": 107
+      },
+      "sha256": "d2d255037177eea5c5f49172c052b20abcdfa2fe9716008b1fa9bd60fa500de6"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "earthbreaker.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_SPLITTING_STRIKE",
+      "uisprite": "MOUNTSPELL_BIGCLEAVE",
+      "label": "Earthbreaker",
+      "rectangle": {
+        "x": 1499,
+        "y": 3225,
+        "width": 104,
+        "height": 103
+      },
+      "sha256": "4cb50b2a246336653a50abd91fecd55351a549a0310b6ef44bf3139f138c1490"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "bladestorm.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_ROTATING_BLADES",
+      "uisprite": "MIGHTY_SWING",
+      "label": "Bladestorm",
+      "rectangle": {
+        "x": 0,
+        "y": 2977,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "cb7b837619aa80646d17b045e099bec0315bebaae99d30c3b6ae61d6298fd19e"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "shockwave.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_PHASECHANGE_AURA",
+      "uisprite": "PURGE_HOLY",
+      "label": "Shockwave",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "grasp-of-the-undying.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_GRAPPLE",
+      "uisprite": "RESURRECT_HOLY",
+      "label": "Grasp of the Undying",
+      "rectangle": {
+        "x": 2564,
+        "y": 3329,
+        "width": 103,
+        "height": 108
+      },
+      "sha256": "e8822c70c9351cd8432d406f7b30be5d05b772ab0c804ed2d63348358e4d800e"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "avalonian-bulwark.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_SHIELD",
+      "uisprite": "BLOCK",
+      "label": "Avalonian Bulwark / Avalonian Might",
+      "rectangle": {
+        "x": 699,
+        "y": 3523,
+        "width": 109,
+        "height": 108
+      },
+      "sha256": "b65f2fd9b9949bed45bde56689f75c0e6703e8989d9ec4b04baafc3188d7096d"
+    },
+    {
+      "boss": "sir-bedivere",
+      "filename": "subjugate.png",
+      "spell": "MOB_AVALON_WOUNDED_KING_PULL",
+      "uisprite": "PULL_AOE",
+      "label": "Subjugate",
+      "rectangle": {
+        "x": 1310,
+        "y": 3539,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "92a428b46ba814ea7b6076fa6a101f4be05743567a29fba29a97a3ef537ce336"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "client_build": "albiononline-macosx-full-1.32.020.344269",
+  "inspected": "2026-10-01",
+  "source_texture": "resources.assets / SpellAtlas",
+  "source_spells": "StreamingAssets/GameData/spells.bin",
+  "icons": [
+    {
+      "boss": "knight-commander",
+      "filename": "fate-of-the-impure.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_FATEIMPURE",
+      "uisprite": "SALVATION",
+      "label": "Fate of the Impure",
+      "rectangle": {
+        "x": 2440,
+        "y": 2179,
+        "width": 102,
+        "height": 101
+      },
+      "sha256": "6614d1d4d2c1898f568889267fd1a0b23c12e57e5ab8ba4e3fba5102946911bc"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "fateful-swings.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_FATEIMPURE_EFFECT",
+      "uisprite": "SALVATION",
+      "label": "Fateful Swings",
+      "rectangle": {
+        "x": 2440,
+        "y": 2179,
+        "width": 102,
+        "height": 101
+      },
+      "sha256": "6614d1d4d2c1898f568889267fd1a0b23c12e57e5ab8ba4e3fba5102946911bc"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "divine-spark.png",
+      "spell": "BUFFSHRINE_KNIGHTBOSS_DUMMY",
+      "uisprite": "PURGE_HOLY",
+      "label": "Divine Spark",
+      "rectangle": {
+        "x": 111,
+        "y": 3298,
+        "width": 109,
+        "height": 106
+      },
+      "sha256": "f5edc30dcefccf3b950f88c5cdae10dd052faf3319208ed17c9f514afbf21044"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "two-handed-swing.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_TWOHANDEDSWING",
+      "uisprite": "SHRINKING_CURSE",
+      "label": "Two-Handed Swing",
+      "rectangle": {
+        "x": 2420,
+        "y": 3117,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "e933b733c6d8ad8d165ce87605a007ce06edc999badd973d6f7417f9eaee0647"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "leap-of-faith.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_LEAP",
+      "uisprite": "JUMP_ATTACK",
+      "label": "Leap of Faith",
+      "rectangle": {
+        "x": 2844,
+        "y": 3016,
+        "width": 103,
+        "height": 104
+      },
+      "sha256": "4ed92d11b422c7e372c7c428364d26501bf69cdb42faf6aaf5fe0908176e3f8d"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "avalonian-barrier.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_SHIELD",
+      "uisprite": "BLOCK",
+      "label": "Avalonian Barrier",
+      "rectangle": {
+        "x": 699,
+        "y": 3523,
+        "width": 109,
+        "height": 108
+      },
+      "sha256": "b65f2fd9b9949bed45bde56689f75c0e6703e8989d9ec4b04baafc3188d7096d"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "avalonian-oath.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_OATH",
+      "uisprite": "STRENGTH",
+      "label": "Avalonian Oath",
+      "rectangle": {
+        "x": 2786,
+        "y": 3228,
+        "width": 103,
+        "height": 106
+      },
+      "sha256": "444749e6e667471bc4b24098dccedafb83996a8d907365604e554d058c437dfc"
+    },
+    {
+      "boss": "knight-commander",
+      "filename": "trial-of-the-impure.png",
+      "spell": "MOB_AVALON_KNIGHTBOSS_TRIAL_NOVA",
+      "uisprite": "BARRIER_DEMONIC",
+      "label": "Trial of the Impure",
+      "rectangle": {
+        "x": 1839,
+        "y": 3763,
+        "width": 109,
+        "height": 107
+      },
+      "sha256": "47454d9213ca34ed48310832106655e1d0d00495d45f1219146807c7d39fa69a"
+    }
+  ]
+}

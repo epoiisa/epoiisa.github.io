@@ -4,10 +4,9 @@ title: Albion Online
 permalink: /albiononline/
 ---
 
-[Home](../)
-
 # Albion Online
 
 - [Tools](tools/)
+- [Mechanics](mechanics/)
 - [Builds](builds/)
 - [Guides](guides/)

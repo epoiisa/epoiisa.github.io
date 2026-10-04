@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Epoiisa
+title: Home
 permalink: /
 ---
 
-# Epoiisa
+# Home
 
 - [Albion Online](albiononline/)

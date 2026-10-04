@@ -1,5 +1,9 @@
 title: Epoiisa
-description: Gaming tools, builds and guides by Epoiisa.
-theme: jekyll-theme-minimal
+description: Gaming tools, mechanics, builds and guides by Epoiisa.
 url: "https://epoiisa.github.io"
 baseurl: ""
+exclude:
+  - _preview
+  - preview.command
+  - .preview
+  - .bundle
