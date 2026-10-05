@@ -6,4 +6,4 @@ permalink: /albiononline/tools/
 
 # Tools
 
-*Coming soon*
+- [download](https://github.com/epoiisa/download) — Command line tool for downloading Albion Online item and spell icons. Supports Windows & macOS/Linux.
