@@ -7,8 +7,8 @@ permalink: /albiononline/builds/
 # Builds
 
 - [Avalonian Dungeons](avalonian-dungeons/)
-- [Dragon Sanctuary](dragon-sanctuary/)
 - [Camps](camps/)
+- [Dragon Sanctuary](dragon-sanctuary/)
 - [Fire Staff Friday](fire-staff-friday/)
 - [Ganking](ganking/)
 - [Gold Chests](gold-chests/)
