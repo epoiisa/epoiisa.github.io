@@ -2,7 +2,7 @@
 
 This site consumes the public `epoiisa/unfettered@main` remote theme through `jekyll-remote-theme`. Tracking `main` is an intentional owner decision: every fresh build fetches the branch's current contents, so successive builds can change without a site commit. Site content, titles, description, URL, empty baseurl and Markdown navigation remain owned here. Every current content page selects `layout: default` in front matter.
 
-The central theme owns `_layouts/default.html`, `_includes/breadcrumbs.html` and `assets/css/style.css`. Do not restore copies at those paths: local files override the remote theme. This repository has no exporter or generated-site ownership manifest; the JSON manifests under mechanics assets describe content assets and remain untouched.
+The central theme owns `_layouts/default.html`, `_includes/breadcrumbs.html` and `assets/css/style.css`. Do not restore copies at those paths: local files override the remote theme.
 
 ## Site customisation
 
