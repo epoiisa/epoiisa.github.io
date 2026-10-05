@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Knight Commander
-permalink: /albiononline/mechanics/avalonian-dungeons/knight-commander/
+permalink: /albion-online/mechanics/avalonian-dungeons/knight-commander/
 ---
 
 # Avalonian Knight Commander
@@ -29,25 +29,25 @@ Two-Handed Swing becomes available **8 seconds into combat**. The voice cue at *
 
 ### Fate of the Impure
 
-![Fate of the Impure](fate-of-the-impure.png)
+![Fate of the Impure](assets/fate-of-the-impure.png)
 
 A persistent aura damages enemies in the Captain’s visible presence within roughly **30 metres**. The first tick occurs about **1 second** after the aura reaches a player, then every **2 seconds**. This damage ignores armour.
 
 ### Fateful Swings
 
-![Fateful Swings](fateful-swings.png)
+![Fateful Swings](assets/fateful-swings.png)
 
 The Captain’s normal attacks trigger an additional damaging hit against a target without **Divine Spark**. Divine Spark prevents this additional hit; it does not remove the Captain’s normal attack or his other abilities.
 
 ### Divine Spark
 
-![Divine Spark](divine-spark.png)
+![Divine Spark](assets/divine-spark.png)
 
 The encounter’s shrine effect grants **60 seconds** of protection from Fateful Swings and increases the recipient’s generated threat by **300%**.
 
 ### Two-Handed Swing
 
-![Two-Handed Swing](two-handed-swing.png)
+![Two-Handed Swing](assets/two-handed-swing.png)
 
 After a **1.5-second cast**, the Captain strikes two adjacent **45-degree sectors** in front of him, with the second sector activating about **2 seconds after the first**. Each wave extends outward to approximately **29 metres**, leaving an inner gap of roughly **2 metres**.
 
@@ -55,7 +55,7 @@ A hit deals damage, knocks the player back about **15 metres**, and applies a **
 
 ### Avalonian Barrier
 
-![Avalonian Barrier](avalonian-barrier.png)
+![Avalonian Barrier](assets/avalonian-barrier.png)
 
 Available from **85% health**. A **2-second cast** produces a burst within **10 metres**, dealing magic damage and knocking players back roughly **15 metres**.
 
@@ -63,7 +63,7 @@ The Captain then channels a barrier for about **4 seconds**, reducing damage rec
 
 ### Leap of Faith
 
-![Leap of Faith](leap-of-faith.png)
+![Leap of Faith](assets/leap-of-faith.png)
 
 Available from **50% health**. The Captain marks a player’s position with a **10-metre-radius circle**, casts for **1.5 seconds**, and leaps toward it.
 
@@ -71,7 +71,7 @@ The landing has two effects. Players within the central **3 metres** take the he
 
 ### Avalonian Oath
 
-![Avalonian Oath](avalonian-oath.png)
+![Avalonian Oath](assets/avalonian-oath.png)
 
 Available from **40% health**. Each Oath grants a lasting stack of **5% movement speed** and **10% bonus damage against players**. The Captain channels for about **6 seconds**, repeatedly marking players in his sight within **40 metres** for the following Trial of the Impure.
 
@@ -79,6 +79,6 @@ Oath has a **30-second base cooldown**. Its stat increases stack, so later Oaths
 
 ### Trial of the Impure
 
-![Trial of the Impure](trial-of-the-impure.png)
+![Trial of the Impure](assets/trial-of-the-impure.png)
 
 Avalonian Oath prepares this follow-up attack. The Captain releases a burst over a **40-metre radius**. It damages players carrying Oath’s **“In sight”** mark and removes that mark. The damage cannot be reflected.

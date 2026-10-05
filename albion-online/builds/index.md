@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Builds
-permalink: /albiononline/builds/
+permalink: /albion-online/builds/
 ---
 
 # Builds

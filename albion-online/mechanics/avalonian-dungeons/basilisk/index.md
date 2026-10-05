@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avalonian Crystal Basilisk
-permalink: /albiononline/mechanics/avalonian-dungeons/basilisk/
+permalink: /albion-online/mechanics/avalonian-dungeons/basilisk/
 ---
 
 # Avalonian Crystal Basilisk
@@ -27,7 +27,7 @@ Petrify and rear-target checks for Tailsmash begin after **10 seconds**. Cleansi
 
 ### Bite Attack
 
-![Bite Attack](bite-attack.png)
+![Bite Attack](assets/bite-attack.png)
 
 A physical bite against the current target, with roughly **1 second before impact**. Successful hits apply a stacking **Dissolving Saliva** effect: each stack reduces the player's defence against mobs by **3%**, up to **50 stacks**.
 
@@ -35,13 +35,13 @@ The effect has a long duration and accumulates during the fight. It is explicitl
 
 ### Petrify
 
-![Petrify](petrify.png)
+![Petrify](assets/petrify.png)
 
 After a **2-second cast**, the Basilisk petrifies players in a **60-degree cone** extending roughly **30 metres** in front of it. Petrification is a cleansable stun with a **10-second base duration**. The attack is an area effect, not a check of which direction a player is facing.
 
 ### Tailsmash
 
-![Tailsmash](tailsmash.png)
+![Tailsmash](assets/tailsmash.png)
 
 A player detected behind the Basilisk can trigger a tail attack. After approximately **0.6 seconds**, it hits a **45-degree rear cone** extending from roughly **4 to 30 metres**, dealing physical damage and knocking victims back about **10 metres**.
 
@@ -49,7 +49,7 @@ The rear detection area is smaller than the attack itself: the trigger checks ro
 
 ### Cleansing Fire
 
-![Cleansing Fire](cleansing-fire.png)
+![Cleansing Fire](assets/cleansing-fire.png)
 
 The Basilisk casts for **1.7 seconds**, then sweeps a narrow cone of fire from side to side for **3.5 seconds**. The breath reaches roughly **26 metres** and deals repeated magic damage; a player can be hit again after **0.5 seconds**.
 
@@ -57,7 +57,7 @@ Damaging hits apply **Holy Flames**, which ticks every **3 seconds** for about *
 
 ### Windwall
 
-![Windwall](windwall.png)
+![Windwall](assets/windwall.png)
 
 Available between **90% and 60% health**. After a **2-second cast**, two curved walls expand outward from opposite sides of the Basilisk for **5 seconds**, reaching approximately **25 metres**.
 
@@ -65,7 +65,7 @@ Contact knocks players outward about **15 metres** and deals magic damage. This 
 
 ### Divine Overcharge
 
-![Divine Overcharge](divine-overcharge.png)
+![Divine Overcharge](assets/divine-overcharge.png)
 
 In stage 2, the Basilisk charges up and sends lightning through up to **seven distinct players**. The sequence has a **2.7-second cast** followed by a **3-second impact delay**. Each affected player takes an initial hit and gains **Divine Overcharge**.
 
@@ -75,7 +75,7 @@ Each charge-up separately gives the Basilisk a permanent, stacking **5% bonus de
 
 ### Divine Pulse
 
-![Divine Pulse](divine-pulse.png)
+![Divine Pulse](assets/divine-pulse.png)
 
 An overcharged player releases the first pulse after **1.5 seconds**, then another every **5 seconds**. Each pulse affects a **5-metre radius** around that player.
 
@@ -83,13 +83,13 @@ The pulse's damage checks require its victim to have Divine Overcharge. Other ov
 
 ### Divine Crystal Resonance
 
-![Divine Crystal Resonance](divine-crystal-resonance.png)
+![Divine Crystal Resonance](assets/divine-crystal-resonance.png)
 
 After a **0.6-second cast**, the Basilisk strikes players within roughly **30 metres**. Each struck player is the centre of a further **3-metre-radius damage effect**, so overlapping impacts can hit nearby players more than once. The damage interrupts casting.
 
 ### Purifying circle
 
-![Purifying circle](purifying-circle.png)
+![Purifying circle](assets/purifying-circle.png)
 
 Stage 2 marks a player with a **4-metre-radius circle**. After **5 seconds**, the circle activates for about **1.2 seconds**.
 

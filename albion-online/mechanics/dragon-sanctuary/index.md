@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dragon Sanctuary
-permalink: /albiononline/mechanics/dragon-sanctuary/
+permalink: /albion-online/mechanics/dragon-sanctuary/
 ---
 
 # Dragon Sanctuary

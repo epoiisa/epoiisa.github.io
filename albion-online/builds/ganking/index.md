@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ganking
-permalink: /albiononline/builds/ganking/
+permalink: /albion-online/builds/ganking/
 ---
 
 # Ganking

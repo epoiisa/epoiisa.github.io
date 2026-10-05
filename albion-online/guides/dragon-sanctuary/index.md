@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dragon Sanctuary
-permalink: /albiononline/guides/dragon-sanctuary/
+permalink: /albion-online/guides/dragon-sanctuary/
 ---
 
 # Dragon Sanctuary

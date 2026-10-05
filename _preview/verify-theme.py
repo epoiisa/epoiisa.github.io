@@ -30,7 +30,7 @@ def check(condition, message):
         failures.append(message)
 
 
-pages = [root / 'index.md', *sorted((root / 'albiononline').rglob('index.md'))]
+pages = [root / 'index.md', *sorted((root / 'albion-online').rglob('index.md'))]
 expected = set()
 for source in pages:
     rel = source.relative_to(root).with_suffix('.html')
@@ -69,7 +69,7 @@ for source in pages:
             check(resolved.is_file(), f'Broken local link/resource: {rel}: {raw}')
 
 # Only content assets and the central stylesheet should be published.
-for directory in ('albiononline', 'assets'):
+for directory in ('albion-online', 'assets'):
     for source in (root / directory).rglob('*'):
         if source.is_file() and source.suffix != '.md' and not source.name.startswith('.'):
             expected.add(source.relative_to(root).as_posix())

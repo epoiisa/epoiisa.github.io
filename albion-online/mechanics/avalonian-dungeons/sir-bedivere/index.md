@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sir Bedivere
-permalink: /albiononline/mechanics/avalonian-dungeons/sir-bedivere/
+permalink: /albion-online/mechanics/avalonian-dungeons/sir-bedivere/
 ---
 
 # Sir Bedivere
@@ -28,7 +28,7 @@ In stage 1, Earthbreaker also unlocks after **30 seconds**, even if Bedivere rem
 
 ### Avalonian Cleave
 
-![Avalonian Cleave](avalonian-cleave.png)
+![Avalonian Cleave](assets/avalonian-cleave.png)
 
 Bedivere's regular attack consists of **two physical cleaves** across a broad **120-degree frontal arc**. A small circle immediately around him is also included in each hit.
 
@@ -38,7 +38,7 @@ He also reduces his current target's threat when that target is more than **7 me
 
 ### Fate of the Unworthy
 
-![Fate of the Unworthy](fate-of-the-unworthy.png)
+![Fate of the Unworthy](assets/fate-of-the-unworthy.png)
 
 Bedivere maintains an aura extending roughly **20 metres**. Players inside gain a stacking damage-over-time effect, with another stack applied every **10 seconds**. The damage ticks every **2 seconds** after its initial tick and increases with the number of stacks.
 
@@ -46,7 +46,7 @@ The effect supports up to **50 stacks**. Once a player leaves the aura, a period
 
 ### Earthbreaker
 
-![Earthbreaker](earthbreaker.png)
+![Earthbreaker](assets/earthbreaker.png)
 
 A **1.56-second cast** strikes a narrow line toward a selected player, dealing physical damage and interrupting casting.
 
@@ -54,7 +54,7 @@ In stage 1, the line is about **3 metres wide and 16 metres long**, beginning sl
 
 ### Bladestorm
 
-![Bladestorm](bladestorm.png)
+![Bladestorm](assets/bladestorm.png)
 
 After approximately **1.6 seconds**, blades appear around a selected ground position. They rotate for roughly **4 seconds**, then fly outward in separate directions during the end of the **5-second sequence**. The central **3-metre-radius area** also deals repeated damage during the rotating portion.
 
@@ -64,7 +64,7 @@ Bladestorm becomes available at **80% of the current stage's health bar**. The s
 
 ### Shockwave
 
-![Shockwave](shockwave.png)
+![Shockwave](assets/shockwave.png)
 
 At **50% of his first health bar**, Bedivere begins his stage transition. After roughly **1.1 seconds of warning**, players within **10 metres** are knocked back about **15 metres** and stunned for **3 seconds**.
 
@@ -74,7 +74,7 @@ The transition's **9.6-second healing cast** restores him to full health. He the
 
 ### Grasp of the Undying
 
-![Grasp of the Undying](grasp-of-the-undying.png)
+![Grasp of the Undying](assets/grasp-of-the-undying.png)
 
 After a **1.56-second cast**, Bedivere stuns a selected player for **8 seconds** and channels damage into them. The channel contains **nine hits, one second apart**, starting immediately. Each hit deals **20% of the victim's maximum health**, ignoring armour.
 
@@ -82,7 +82,7 @@ The normal selection excludes the highest-threat player and unlocks at **90% hea
 
 ### Avalonian Bulwark / Avalonian Might
 
-![Avalonian Bulwark](avalonian-bulwark.png)
+![Avalonian Bulwark](assets/avalonian-bulwark.png)
 
 Available at **75% health in stage 2**. Bedivere casts for **1.6 seconds**, deals magic damage within **7 metres**, and knocks nearby players back about **15 metres**.
 
@@ -92,6 +92,6 @@ During the channel, attacks made against Bedivere by players inside these sector
 
 ### Subjugate
 
-![Subjugate](subjugate.png)
+![Subjugate](assets/subjugate.png)
 
 In stage 2, Bedivere can pull players within roughly **30 metres** toward him after a **0.56-second wind-up**. The pull finishes about **4 metres** from his centre. It also heavily reduces nearby players' threat, allowing the boss's attack target to change.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-permalink: /albiononline/tools/
+permalink: /albion-online/tools/
 ---
 
 # Tools

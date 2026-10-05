@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soup Skip
-permalink: /albiononline/builds/soup-skip/
+permalink: /albion-online/builds/soup-skip/
 ---
 
 # Soup Skip

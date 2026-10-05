@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maeve, the Unfettered Oracle
-permalink: /albiononline/mechanics/dragon-sanctuary/maeve/
+permalink: /albion-online/mechanics/dragon-sanctuary/maeve/
 ---
 
 # Maeve, the Unfettered Oracle
@@ -30,7 +30,7 @@ Rock Spike starts at **80% health or 120 seconds**, whichever comes first. A sec
 
 ### Realm Rift
 
-![Realm Rift](realm-rift.png)
+![Realm Rift](assets/realm-rift.png)
 
 Maeve targets a roughly **4-metre-radius circle** at her current target’s position, with a **1.25-second cast**. The hit deals physical damage and applies a stacking effect that increases damage from subsequent Realm Rifts.
 
@@ -38,7 +38,7 @@ The debuff lasts **100 seconds** and can reach **15 stacks**. Its damage increas
 
 ### Boulder Charge
 
-![Boulder Charge](boulder-charge.png)
+![Boulder Charge](assets/boulder-charge.png)
 
 A boulder prepares for roughly **1.6 seconds**, then charges along its path. The moving boulder deals physical damage and knocks players back; its landing area can also damage and displace nearby players.
 
@@ -46,7 +46,7 @@ Boulders can select players across the arena, with a preference for a distant ta
 
 ### Boulder Stomp
 
-![Boulder Stomp](boulder-stomp.png)
+![Boulder Stomp](assets/boulder-stomp.png)
 
 A boulder stomps after a short wind-up of about **0.8 seconds**. The initial impact heavily damages players within roughly **3.5 metres**, and the stomp sends **three narrow projectiles** (sparkles/darts) outward in different directions. Maeve commands repeated stomps, producing successive waves of these darts.
 
@@ -54,7 +54,7 @@ The outward projectiles travel roughly **32 metres**. A damaging projectile hit 
 
 ### Storm Pulse
 
-![Storm Pulse](storm-pulse.png)
+![Storm Pulse](assets/storm-pulse.png)
 
 A large circle marks a Storm Spire’s arrival. After roughly **3 seconds of warning**, an expanding ring sweeps outward over about **1.3 seconds**, dealing magic damage and interrupting casting on a hit. The ground warning is about **15 metres in radius**.
 
@@ -62,7 +62,7 @@ The Storm Spire appears as part of this sequence and is briefly protected while 
 
 ### Storm Coil
 
-![Storm Coil](storm-coil.png)
+![Storm Coil](assets/storm-coil.png)
 
 A surviving Storm Spire casts Storm Coil over **8 seconds**, then creates a damaging lightning ring for about **5 seconds**. The ring deals magic damage every **0.4 seconds** between roughly **5.5 and 16 metres** from the spire.
 
@@ -70,7 +70,7 @@ The immediate inner area, inside about **5.5 metres**, is clear of Storm Coil. B
 
 ### Rock Spike
 
-![Rock Spike](rock-spike.png)
+![Rock Spike](assets/rock-spike.png)
 
 Maeve marks a player with a **red arrow**. The first spike placement appears beneath that player **1.5 seconds after marking**, followed by another every **1.1 seconds**, for **12 placements** beneath their successive positions. The final placement appears approximately **13.6 seconds after marking**.
 
@@ -80,6 +80,6 @@ Maeve excludes her highest-threat target when choosing the mark. Later in the fi
 
 ### Primal Dragon Flame
 
-![Primal Dragon Flame](primal-dragon-flame.png)
+![Primal Dragon Flame](assets/primal-dragon-flame.png)
 
 Maeve prepares Primal Dragon Flame with a **5-second cast**, followed by an 8-second channel containing **three pulses**. The first pulse is scheduled **2 seconds after the channel begins**, with the next two **3 seconds apart**. The damage effect has a small additional delay, so use the cast and visible hits to adjust execution. There are **six seconds between the first and third pulses**, but roughly **thirteen seconds from the start of the initial cast to the final pulse**. Each pulse combines normal magic damage with an additional **armour-ignoring damage component**.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Static Dungeons
-permalink: /albiononline/builds/static-dungeons/
+permalink: /albion-online/builds/static-dungeons/
 ---
 
 # Static Dungeons

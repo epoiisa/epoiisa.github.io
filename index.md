@@ -6,4 +6,4 @@ permalink: /
 
 # Home
 
-- [Albion Online](albiononline/)
+- [Albion Online](albion-online/)

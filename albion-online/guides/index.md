@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guides
-permalink: /albiononline/guides/
+permalink: /albion-online/guides/
 ---
 
 # Guides

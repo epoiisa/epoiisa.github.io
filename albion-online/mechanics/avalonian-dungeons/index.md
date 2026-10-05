@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avalonian Dungeons
-permalink: /albiononline/mechanics/avalonian-dungeons/
+permalink: /albion-online/mechanics/avalonian-dungeons/
 ---
 
 # Avalonian Dungeons

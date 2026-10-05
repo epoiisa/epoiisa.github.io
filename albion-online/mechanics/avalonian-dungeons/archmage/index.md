@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avalonian Archmage
-permalink: /albiononline/mechanics/avalonian-dungeons/archmage/
+permalink: /albion-online/mechanics/avalonian-dungeons/archmage/
 ---
 
 # Avalonian Archmage (dancing queen)
@@ -29,13 +29,13 @@ The Archmage repeatedly alternates between **Radial Limiter**, lasting about **6
 
 ### Radial Limiter
 
-![Radial Limiter](radial-limiter.png)
+![Radial Limiter](assets/radial-limiter.png)
 
 After a **3-second cast**, a damaging ring forms around the Archmage. Its outer radius remains about **30 metres**, while its inner edge contracts from about **29 metres to 8 metres over 60 seconds**. The ring lasts about **65 seconds** and deals damage every **0.5 seconds** to players inside it.
 
 ### Disruptive Energy
 
-![Disruptive Energy](disruptive-energy.png)
+![Disruptive Energy](assets/disruptive-energy.png)
 
 Radial Limiter also creates moving energy hazards, each about **3 metres in radius**, following winding paths around the arena. They appear after roughly **1.5 seconds of warning** and last for the limiter phase. Contact deals physical damage and knocks the player approximately **8 metres** away.
 
@@ -43,7 +43,7 @@ The first Radial Limiter creates **one hazard**. After the Archmage reaches **60
 
 ### Skybeam
 
-![Skybeam](skybeam.png)
+![Skybeam](assets/skybeam.png)
 
 The Archmage marks a player’s position with a **2.5-metre-radius circle**. The beam lands after approximately **1.6 seconds**, deals damage and slows affected players by **20% for 2 seconds**. The damage increases when the attack hits multiple targets.
 
@@ -51,13 +51,13 @@ At **30% health**, its base cooldown decreases from **4 seconds to 1.5 seconds**
 
 ### Disintegrate
 
-![Disintegrate](disintegrate.png)
+![Disintegrate](assets/disintegrate.png)
 
 A beam channels into the Archmage’s current target, dealing **seven damage pulses, 0.5 seconds apart**—about **3 seconds from the first pulse to the last**. Each pulse also affects players within about **2 metres** of the target. This attack occurs during Radial Limiter.
 
 ### Avalonian Radiance
 
-![Avalonian Radiance](avalonian-radiance.png)
+![Avalonian Radiance](assets/avalonian-radiance.png)
 
 This damage effect is shared by the Archmage’s sweeping beams and rotating orbs. Hits can deal repeated damage at **0.25-second intervals**.
 
@@ -69,12 +69,12 @@ At **40% health or below**, both patterns appear together and rotate in **opposi
 
 ### Energy Emission
 
-![Energy Emission](energy-emission.png)
+![Energy Emission](assets/energy-emission.png)
 
 During the short sweeping-beam channels, a bubble about **2 metres in radius** surrounds the Archmage. Contact deals damage and knocks players approximately **10 metres** away.
 
 ### Burst
 
-![Burst](burst.png)
+![Burst](assets/burst.png)
 
 At the end of Radial Limiter, the Archmage prepares a **2.8-second cast**, then damages players within a **10-metre-radius circle** around herself. This opens the rotating-orb phase, after which the Radial Limiter cycle begins again.

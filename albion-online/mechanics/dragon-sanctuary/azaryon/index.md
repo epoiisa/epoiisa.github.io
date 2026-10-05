@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azaryon, the Fire Dragon
-permalink: /albiononline/mechanics/dragon-sanctuary/azaryon/
+permalink: /albion-online/mechanics/dragon-sanctuary/azaryon/
 ---
 
 # Azaryon, the Fire Dragon
@@ -34,7 +34,7 @@ permalink: /albiononline/mechanics/dragon-sanctuary/azaryon/
 
 ### Claw Swipe
 
-![Claw Swipe](albion-online/mechanics/dragon-sanctuary/azaryon/assets/claw-swipe.png)
+![Claw Swipe](assets/claw-swipe.png)
 
 Azaryon swipes with his left or right claw after roughly **1.8 seconds**, hitting a broad area in front of him with physical damage.
 
@@ -42,13 +42,13 @@ The hit is substantially more dangerous when it catches only one player. Hitting
 
 ### Devastating Smash
 
-![Devastating Smash](devastating-smash.png)
+![Devastating Smash](assets/devastating-smash.png)
 
 A roughly **2-second** cast strikes a circle beside one of Azaryon’s front claws. A damaging hit also stuns the victim for **2 seconds** and applies a stacking vulnerability to mob damage that lasts **60 seconds**.
 
 ### Fire Breath
 
-![Fire Breath](albion-online/mechanics/dragon-sanctuary/azaryon/assets/fire-breath.png)
+![Fire Breath](assets/fire-breath.png)
 
 For the stationary variant, Azaryon winds up for roughly **1.9 seconds**, then sweeps fire across a front-side area for **3.3 seconds**. The breath hits every **0.2 seconds** while you remain in it, increasing the damage of subsequent hits.
 
@@ -56,25 +56,25 @@ The name **Fire Breath** also covers moving variants: Azaryon can charge while b
 
 ### Swipe
 
-![Swipe](swipe.png)
+![Swipe](assets/swipe.png)
 
 Azaryon can turn toward players at his side with a fast, damaging sweep. The attacking turn has very little wind-up and does not provide the same conspicuous ground warning as his larger abilities.
 
 ### Tail Swipe
 
-![Tail Swipe](tail-swipe.png)
+![Tail Swipe](assets/tail-swipe.png)
 
 Players behind Azaryon can provoke a rear attack that deals physical damage and knocks victims a long distance away.
 
 ### Onslaught
 
-![Onslaught](albion-online/mechanics/dragon-sanctuary/azaryon/assets/onslaught.png)
+![Onslaught](assets/onslaught.png)
 
 Azaryon makes a short forward charge, damaging players along his path and around the impact, with knockback effects. He can choose this attack when his highest-threat target is too far in front of him.
 
 ### Giant Rupture
 
-![Giant Rupture](giant-rupture.png)
+![Giant Rupture](assets/giant-rupture.png)
 
 Three heavy stomps alternate their danger zones.
 
@@ -90,13 +90,13 @@ The movement call is **in → out → in**. The zones are centred slightly in fr
 
 ### Inferno
 
-![Inferno](inferno.png)
+![Inferno](assets/inferno.png)
 
 Azaryon prepares a massive fire attack with a **7-second wind-up**, followed by **20 rapid pulses, 0.22 seconds apart**—about **4.2 seconds from first pulse to last**. Rocks provide protection by blocking line of sight; stay behind one until the attack finishes. Repeated exposure becomes increasingly punishing, and Azaryon is invulnerable during the channel.
 
 ### Meteor
 
-![Meteor](meteor.png)
+![Meteor](assets/meteor.png)
 
 This name covers both a boss channel and the meteor hazards it produces. During the channel, Azaryon is protected while successive meteors fall. Later stages also produce recurring meteors alongside his other attacks.
 
@@ -104,13 +104,13 @@ Targeted meteors mark a circle with roughly **2 seconds’ warning** before impa
 
 ### Fire Wall
 
-![Fire Wall](fire-wall.png)
+![Fire Wall](assets/fire-wall.png)
 
 Azaryon marks players for a line of fire. The marker follows its target for **4.5 seconds**, then fixes the wall’s position. A further **1.5-second ground warning** gives players time to leave before activation—roughly **6 seconds after marking**. The wall can persist for about **60 seconds** unless an encounter cleanup removes it. The fire deals damage, adds burning damage over time and can fear players it damages.
 
 ### Oppressing Roar
 
-![Oppressing Roar](oppressing-roar.png)
+![Oppressing Roar](assets/oppressing-roar.png)
 
 Azaryon roars at each health-stage transition. Nearby players are slowed by **50% for about 4 seconds**, and briefly prevented from casting spells and attacking for **3 seconds**.
 
@@ -118,7 +118,7 @@ The transition at **20%** also sends delayed circular explosions outward in six 
 
 ### Meltdown
 
-![Meltdown](meltdown.png)
+![Meltdown](assets/meltdown.png)
 
 Meltdown has a 5-second warning followed by 17 damage pulses, one every 0.5 seconds. The last pulse occurs 8 seconds after the first pulse. The pulses become more punishing as the channel progresses. Azaryon is invulnerable during the sequence.
 
@@ -126,7 +126,7 @@ This is a major final-stage mechanic. The encounter also contains an anti-stalli
 
 ### Enrage
 
-![Enrage status icon](enrage.png)
+![Enrage status icon](assets/enrage.png)
 
 In the final two stages, prolonged fighting can enrage Azaryon: meteors become more frequent and his damage increases in further steps every **30 seconds**.
 
@@ -140,25 +140,25 @@ The recommended collector sequence is: **take three Fire Essence pickups → app
 
 ### Fiery Pulse
 
-![Fiery Pulse](inferno.png)
+![Fiery Pulse](assets/inferno.png)
 
 Each Flame summon damages nearby players within roughly **5 metres** every **2.5 seconds**.
 
 ### Fire Essence
 
-![Consume Fire Essence](giant-rupture.png)
+![Consume Fire Essence](assets/giant-rupture.png)
 
 Flames launch Fire Essence pickups onto the ground. A pickup can be consumed by one player and remains available for about **8 seconds**. Taking it causes a hit of magic damage and grants **Consumed Fire Essence**.
 
 ### Consumed Fire Essence
 
-![Consumed Fire Essence](consumed-fire-essence.png)
+![Consumed Fire Essence](assets/consumed-fire-essence.png)
 
 This is the stacking effect gained from collecting essence. Reaching **three stacks** consumes the stacks and grants temporary access to **Unstable Fire Essence**.
 
 ### Unstable Fire Essence
 
-![Unstable Fire Essence](inferno.png)
+![Unstable Fire Essence](assets/inferno.png)
 
 After the third pickup, the temporary ability **Unstable Fire Essence** replaces your **first weapon ability** for **8 seconds**. During this window, your other ability slots are blocked, your movement speed increases, and you are immune to the summons’ Fiery Pulse.
 
@@ -166,6 +166,6 @@ Activating the temporary ability removes flame summons within roughly **11 metre
 
 ### Primordial Fire Pulse
 
-![Primordial Fire Pulse](giant-rupture.png)
+![Primordial Fire Pulse](assets/giant-rupture.png)
 
 If a pickup is left uncollected, it releases an expanding pulse that can sweep across the raid, dealing armour-ignoring damage.

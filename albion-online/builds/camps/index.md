@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camps
-permalink: /albiononline/builds/camps/
+permalink: /albion-online/builds/camps/
 ---
 
 # Camps

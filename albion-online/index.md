@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Albion Online
-permalink: /albiononline/
+permalink: /albion-online/
 ---
 
 # Albion Online

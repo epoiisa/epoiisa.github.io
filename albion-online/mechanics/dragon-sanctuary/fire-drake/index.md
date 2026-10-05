@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fire Drake
-permalink: /albiononline/mechanics/dragon-sanctuary/fire-drake/
+permalink: /albion-online/mechanics/dragon-sanctuary/fire-drake/
 ---
 
 # Fire Drake
@@ -31,7 +31,7 @@ These are availability conditions, not a fixed cast order. Another action, a coo
 
 ### Claw Swipe
 
-![Claw Swipe](albion-online/mechanics/dragon-sanctuary/fire-drake/assets/claw-swipe.png)
+![Claw Swipe](assets/claw-swipe.png)
 
 The Fire Drake swipes with its left or right claw after roughly **1.1 seconds**, sweeping an area in front of it. It aims at its current target, but the sweep can hit other players in its path. The attack has no visible ground warning.
 
@@ -39,7 +39,7 @@ A damaging hit applies **Bleed**, which can stack up to **five times**. Each app
 
 ### Bite
 
-![Bite](bite.png)
+![Bite](assets/bite.png)
 
 The Fire Drake bites forward after roughly **1.2 seconds**, hitting a rectangular area in front of its head without a visible ground warning. It chooses this attack when its current target is at least **6 metres** away and within the ability’s casting range.
 
@@ -47,7 +47,7 @@ The hit ignores armour. A damaging hit **prevents healing for 2 seconds** and ca
 
 ### Wing Strike
 
-![Wing Strike](wing-strike.png)
+![Wing Strike](assets/wing-strike.png)
 
 A roughly **1.1-second cast** marks a broad cone in front of the Fire Drake, aimed toward its current target. The wing gust knocks players back, with a base knockback distance of **8 metres**.
 
@@ -55,7 +55,7 @@ A narrower area close to the front overlaps the broad cone. Players caught there
 
 ### Onslaught
 
-![Onslaught](albion-online/mechanics/dragon-sanctuary/fire-drake/assets/onslaught.png)
+![Onslaught](assets/onslaught.png)
 
 The Fire Drake selects a player at least **11 metres** away and prepares a charge for roughly **1.3 seconds**. It displays a ground warning, while the usual cast bar is hidden. The selected player can be someone other than its current target.
 
@@ -65,7 +65,7 @@ After the charge ends, a separate circular impact becomes dangerous roughly **0.
 
 ### Fire Breath
 
-![Fire Breath](albion-online/mechanics/dragon-sanctuary/fire-drake/assets/fire-breath.png)
+![Fire Breath](assets/fire-breath.png)
 
 The Fire Drake prepares for **1.8 seconds**, then sweeps fire to one side over a roughly **2-second attack window**. Left- and right-sweeping variants use the same ability name. A visible ground warning accompanies the cast.
 
@@ -75,7 +75,7 @@ Target selection favours players other than the highest-threat target, although 
 
 ### Lava
 
-![Lava](lava.png)
+![Lava](assets/lava.png)
 
 The Fire Drake targets a player other than its highest-threat target and marks a **3-metre-radius circle** at that player’s position. A **0.9-second cast**, followed by a short delay, launches the lava attack.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mechanics
-permalink: /albiononline/mechanics/
+permalink: /albion-online/mechanics/
 ---
 
 # Mechanics

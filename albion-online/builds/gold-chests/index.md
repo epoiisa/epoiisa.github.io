@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gold Chests
-permalink: /albiononline/builds/gold-chests/
+permalink: /albion-online/builds/gold-chests/
 ---
 
 # Gold Chests

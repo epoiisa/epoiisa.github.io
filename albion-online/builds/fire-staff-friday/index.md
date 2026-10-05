@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fire Staff Friday
-permalink: /albiononline/builds/fire-staff-friday/
+permalink: /albion-online/builds/fire-staff-friday/
 ---
 
 # Fire Staff Friday

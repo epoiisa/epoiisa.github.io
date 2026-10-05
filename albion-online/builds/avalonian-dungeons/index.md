@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avalonian Dungeons
-permalink: /albiononline/builds/avalonian-dungeons/
+permalink: /albion-online/builds/avalonian-dungeons/
 ---
 
 # Avalonian Dungeons
