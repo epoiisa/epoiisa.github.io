@@ -6,4 +6,4 @@ permalink: /albiononline/builds/dragon-sanctuary/
 
 # Dragon Sanctuary
 
-![Dragon Sanctuary build](dragon-sanctuary.png)
+![Dragon Sanctuary build](Dragon%20Sanctuary.png)

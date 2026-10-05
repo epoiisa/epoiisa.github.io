@@ -6,4 +6,4 @@ permalink: /albiononline/builds/camps/
 
 # Camps
 
-![Camps build](camps.png)
+![Camps build](Camps.png)

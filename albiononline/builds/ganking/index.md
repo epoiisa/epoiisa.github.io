@@ -6,4 +6,4 @@ permalink: /albiononline/builds/ganking/
 
 # Ganking
 
-![Ganking build](ganking.png)
+![Ganking build](Ganking.png)

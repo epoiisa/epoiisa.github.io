@@ -6,4 +6,4 @@ permalink: /albiononline/builds/fire-staff-friday/
 
 # Fire Staff Friday
 
-![Fire Staff Friday build](fire-staff-friday.png)
+![Fire Staff Friday build](Fire%20Staff%20Friday.png)

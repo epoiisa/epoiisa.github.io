@@ -6,4 +6,4 @@ permalink: /albiononline/builds/group-dungeons/
 
 # Group Dungeons
 
-![Group Dungeons build](group-dungeons.png)
+![Group Dungeons build](Group%20Dungeons.png)

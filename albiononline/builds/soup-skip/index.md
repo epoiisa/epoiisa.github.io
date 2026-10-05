@@ -6,4 +6,4 @@ permalink: /albiononline/builds/soup-skip/
 
 # Soup Skip
 
-![Soup Skip build](soup-skip.png)
+![Soup Skip build](Soup%20Skip.png)

@@ -6,4 +6,4 @@ permalink: /albiononline/builds/gold-chests/
 
 # Gold Chests
 
-![Gold Chests build](gold-chests.png)
+![Gold Chests build](Gold%20Chests.png)
