@@ -1,0 +1,56 @@
+:root {
+  --invite-background: oklch(62.3% 0.214 259.815 / 10%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --invite-background: oklch(62.3% 0.214 259.815 / 22%);
+  }
+}
+
+.guild-invite {
+  display: grid;
+  grid-template-columns: 2em minmax(0, 1fr) 2em;
+  align-items: center;
+  margin-bottom: var(--rhythm);
+  padding: 0.375rem 0.5rem;
+  border-radius: 0.25rem;
+  background: var(--invite-background);
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.guild-invite[hidden] {
+  display: none;
+}
+
+.guild-invite p {
+  grid-column: 2;
+  margin: 0;
+  text-align: center;
+}
+
+.guild-invite-close {
+  display: grid;
+  grid-column: 3;
+  place-items: center;
+  width: 2em;
+  height: 2em;
+  padding: 0;
+  border: 0;
+  border-radius: 0.25rem;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.guild-invite-close:hover {
+  background: var(--surface);
+}
+
+.guild-invite-close svg {
+  width: 1em;
+  height: 1em;
+}
+

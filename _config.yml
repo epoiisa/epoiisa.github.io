@@ -2,6 +2,9 @@ title: Epoiisa
 description: Gaming tools, mechanics, builds and guides by Epoiisa.
 url: "https://epoiisa.github.io"
 baseurl: ""
+remote_theme: epoiisa/unfettered@main
+plugins:
+  - jekyll-remote-theme
 exclude:
   - _preview
   - preview.command
