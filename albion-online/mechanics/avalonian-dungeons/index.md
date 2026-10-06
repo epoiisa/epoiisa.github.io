@@ -7,8 +7,8 @@ permalink: /albion-online/mechanics/avalonian-dungeons/
 # Avalonian Dungeons
 
 - [Archmage (dancing queen)](archmage/)
-- [Basilisk](basilisk/)
 - [Construct](construct/)
-- [Knight Commander](knight-commander/)
-- [Priestess (free boss)](priestess/)
+- [Crystal Basilisk](crystal-basilisk/)
+- [Knight Captain](knight-captain/)
+- [High Priestess (free boss)](high-priestess/)
 - [Sir Bedivere](sir-bedivere/)

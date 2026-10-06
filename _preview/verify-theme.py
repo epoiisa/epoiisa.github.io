@@ -1,5 +1,6 @@
 """Verify remote-theme output against site-owned source and allowed static files."""
 import argparse
+import re
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -35,6 +36,20 @@ expected = set()
 for source in pages:
     rel = source.relative_to(root).with_suffix('.html')
     expected.add(rel.as_posix())
+    front_matter = source.read_text().split('---')[1]
+    redirect = re.search(r'^redirect_from: (.+)$', front_matter, re.MULTILINE)
+    if redirect:
+        old_url = redirect.group(1).strip()
+        new_url = re.search(r'^permalink: (.+)$', front_matter, re.MULTILINE).group(1).strip()
+        redirect_path = old_url.lstrip('/') + 'index.html'
+        expected.add(redirect_path)
+        redirect_file = output / redirect_path
+        check(redirect_file.is_file(), f'Missing redirect: {old_url}')
+        if redirect_file.is_file():
+            redirect_doc = Document(redirect_file.read_text())
+            destination = 'https://epoiisa.github.io' + base + new_url
+            check(any(tag == 'link' and attrs.get('rel') == 'canonical' and attrs.get('href') == destination for tag, attrs in redirect_doc.elements), f'Incorrect redirect destination: {old_url}')
+            check(any(tag == 'meta' and attrs.get('http-equiv', '').lower() == 'refresh' and destination in attrs.get('content', '') for tag, attrs in redirect_doc.elements), f'Missing automatic redirect: {old_url}')
     target = output / rel
     check(target.is_file(), f'Missing page: {rel}')
     if not target.is_file():
@@ -45,8 +60,9 @@ for source in pages:
     check(' • Epoiisa</title>' in html, f'Missing branding: {rel}')
     check('Gaming tools, mechanics, builds and guides by Epoiisa.' in html, f'Missing description: {rel}')
     check(any(tag == 'a' and attrs.get('class') == 'site-title' and attrs.get('href') == base + '/' for tag, attrs in doc.elements), f'Incorrect home URL: {rel}')
-    check(any(tag == 'nav' and attrs.get('aria-label') == 'Breadcrumb' for tag, attrs in doc.elements), f'Missing breadcrumbs: {rel}')
-    check('aria-current="page"' in html, f'Missing current breadcrumb: {rel}')
+    if rel.as_posix() != 'index.html':
+        check(any(tag == 'nav' and attrs.get('aria-label') == 'Breadcrumb' for tag, attrs in doc.elements), f'Missing breadcrumbs: {rel}')
+        check('aria-current="page"' in html, f'Missing current breadcrumb: {rel}')
     check('Join me in <a href="https://discord.gg/j7EJgJ3D5M">Frostborn Exiles</a> on the Asia server.' in html, f'Missing invitation: {rel}')
     for tag, key, resource in [('link', 'href', '/assets/css/style.css'), ('link', 'href', '/assets/css/guild-invite.css'), ('script', 'src', '/assets/js/guild-invite.js')]:
         check(any(t == tag and urlsplit(a.get(key, '')).path == base + resource for t, a in doc.elements), f'Missing resource {resource}: {rel}')

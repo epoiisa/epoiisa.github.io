@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Knight Commander
-permalink: /albion-online/mechanics/avalonian-dungeons/knight-commander/
+title: Avalonian Knight Captain
+permalink: /albion-online/mechanics/avalonian-dungeons/knight-captain/
+redirect_from: /albion-online/mechanics/avalonian-dungeons/knight-commander/
 ---
 
-# Avalonian Knight Commander
+# Avalonian Knight Captain
 
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |
@@ -16,7 +17,7 @@ permalink: /albion-online/mechanics/avalonian-dungeons/knight-commander/
 
 Two-Handed Swing becomes available **8 seconds into combat**. The voice cue at **55% health** precedes the actual attack change at **50%**. Fate of the Impure and Fateful Swings remain active throughout the fight.
 
-## Knight Commander’s abilities
+## Knight Captain’s abilities
 
 - Fate of the Impure
 - Fateful Swings

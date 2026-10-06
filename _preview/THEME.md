@@ -10,6 +10,8 @@ The central theme owns `_layouts/default.html`, `_includes/breadcrumbs.html` and
 
 This include deliberately overrides Unfettered's optional navigation include because the theme has no separate banner hook. As a result, central changes to `navigation.html` do not apply here, and adding `_data/navigation.yml` alone will not render a navigation bar. Current navigation remains the existing content links and central breadcrumbs. To adopt central navigation later, first agree on a central extension hook or explicitly revise this site-owned include. The layout, breadcrumbs and core CSS otherwise come directly from Unfettered.
 
+Renamed Avalonian boss pages declare their former URLs with `redirect_from`. The GitHub Pages-supported `jekyll-redirect-from` plugin generates browser redirects for `basilisk/`, `knight-commander/` and `priestess/` to their current pages. Its `redirects.json` output is disabled. Content links use the current URLs directly, and mechanics images use page-relative `assets/<filename>.png` paths so they also work under a non-empty baseurl.
+
 ## Build and verify
 
 Ruby, Bundler and Python 3 are required. From the repository root:

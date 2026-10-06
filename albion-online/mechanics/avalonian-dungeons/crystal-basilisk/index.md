@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Avalonian Crystal Basilisk
-permalink: /albion-online/mechanics/avalonian-dungeons/basilisk/
+permalink: /albion-online/mechanics/avalonian-dungeons/crystal-basilisk/
+redirect_from: /albion-online/mechanics/avalonian-dungeons/basilisk/
 ---
 
 # Avalonian Crystal Basilisk
@@ -14,7 +15,7 @@ permalink: /albion-online/mechanics/avalonian-dungeons/basilisk/
 
 Petrify and rear-target checks for Tailsmash begin after **10 seconds**. Cleansing Fire becomes available after **30 seconds**. These timers are independent of the 60% stage transition. The Basilisk's passive health regeneration stops when stage 2 begins.
 
-## Basilisk’s abilities
+## Crystal Basilisk’s abilities
 
 - Bite Attack
 - Petrify

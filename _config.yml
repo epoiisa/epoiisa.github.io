@@ -5,6 +5,9 @@ baseurl: ""
 remote_theme: epoiisa/unfettered@main
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
+redirect_from:
+  json: false
 exclude:
   - _preview
   - preview.command

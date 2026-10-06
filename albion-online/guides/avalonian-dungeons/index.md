@@ -6,19 +6,46 @@ permalink: /albion-online/guides/avalonian-dungeons/
 
 # Avalonian Dungeons
 
-- [[#Knight Captain]]
-## Knight Captain
-- Royal Shoes switch to Evasive Jump
-- Everyone else switch to Dodge Roll
+[Builds](../../builds/avalonian-dungeons/) • [Boss Mechanics](../../mechanics/)
+
+## Roles
+
+- Tank
+- Stillgaze Staff
+- Forgebark Staff
+- Shadowcaller
+- Blazing Staff
+- DPS
+- DPS
+- DPS
+- DPS
+- DPS
+
+## Archmage (dancing queen)
+
+[Archmage Mechanics](../../mechanics/avalonian-dungeons/archmage/)
+
+> ***Update Notes***
+> *Rotate defensives during Radial Limiter (Judicator Armor).*
+> *Cast damage reduction during Burst at the end of Radial Limiter (Guardian Armor, BMS).*
+
+- **Everyone.** Switch to Dodge Roll and swap to Guardian Helmets (3 1).
 - Tanks swap to Knight Helmet (3 1)
-- Main Tank swap to Black Monk Stave (1 3 1 2) and switch to Toughness
-- Second Tank switch to Guard Rune
-- Great Arcane Staff swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
-- Main Healer swap to Holy Staff (1 2 1 1)
+- Main Tank swap to Black Monk Stave (1 3 1 2)
+- Second Tank switch to Defensive Slam and Guard Rune
+- Stillgaze Staff swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
+- Main Healer swap to Holy Staff (3 5 1 1)
 - Party Healers swap Fallen Staff (3 5 1 1)
 - Blazing Staff swap to single target DPS
-- No one use DoT attacks
+
+### Notes
+
+- If stuck in the beam, walk or Dodge Roll toward/through it
+
 ## Construct
+
+[Construct Mechanics](../../mechanics/avalonian-dungeons/construct/)
+
 - Everyone swap to Guardian Helmets (3 1), except Main Tank
 - Everyone switch to Dodge Roll
 - Main Tank swap to Incubus Mace (2 3 1 2) and Sarcophagus
@@ -27,39 +54,14 @@ permalink: /albion-online/guides/avalonian-dungeons/
 - Main Healer swap to Holy Staff (1 2 1 1)
 - Party Healers swap Fallen Staff (3 5 1 1)
 - Blazing Staff swap to single target DPS
+
 ### Notes
 - 10 most experienced players are runners
-## High Priestess (Piñata) ✅
-- Cleanse (Motivating Cleanse, Cleanse Heal, leather hoods) and move to circle
-- Everyone who is stunned must be in the circle when the channel starts
-- At 50% channel, Second Tank Q silence (Sacred Group) and Enfeeble Aura
-- Also at 50% channel, DPS pre-stack
-- Main Tank hammer (full CC), E stun
-- Debuff (Shadowcaller, Shrinking Curse etc.) and DPS
-- Must kill Shadows before stun expires; can extend with silence (Hellion Hood, Arcane Staff etc.)
-- Cooldown (arcane staffs Mimic frost staff Glacial Obelisk)
-- Defensives (Enigmatic Staff, Judicator Armor, Guard Rune etc.)
-- Repeat (do not move to second circle; do move to third circle)
-### Notes
-- The key to burst Second Tank pre-silence Q just before Shadows spawn, then Hellion Hood silence, step back and Incubus E.
-## Archmage (Dancing Queen)
 
-> ***Update Notes***
-> *Rotate defensives during Radial Limiter (Guardian Armor, BMS).*
-> *Cast damage reduction during Burst at the end of Radial Limiter.*
+## Crystal Basilisk
 
-- Everyone.  switch to Dodge Roll.
-- Everyone swap to Guardian Helmets (3 1)
-- Tanks swap to Knight Helmet (3 1)
-- Main Tank swap to Black Monk Stave (1 3 1 2)
-- Second Tank switch to Defensive Slam and Guard Rune
-- Stillgaze Staff swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
-- Main Healer swap to Holy Staff (3 5 1 1)
-- Party Healers swap Fallen Staff (3 5 1 1)
-- Blazing Staff swap to single target DPS
-### Notes
-- If stuck in the beam, walk or Dodge Roll toward/through it
-## Basilisk ✅
+[Crystal Basilisk Mechanics](../../mechanics/avalonian-dungeons/crystal-basilisk/)
+
 - **Main Tank** on Incubus Mace, Sarcophagus, Soldier Helmet, Taunt, Refreshing Sprint
 - **Second Tank** on Incubus Mace, Mistcaller, Assassin Hood, Guardian Armor, Refreshing Sprint
 - **Arcane Staff** on BMS, Assassin Hood, Guardian Armor, Refreshing Sprint
@@ -75,7 +77,49 @@ permalink: /albion-online/guides/avalonian-dungeons/
 - At 80% Cleric Robe channel, call “Spread” and “Defensives” (Enfeeble Aura wait an extra second)
 - Second explosion occurs after 15 seconds; call for defensives at 12 seconds
 - Only bring cleanse to tank after second explosion
+
+## Knight Captain
+
+[Knight Captain Mechanics](../../mechanics/avalonian-dungeons/knight-captain/)
+
+- Royal Shoes switch to Evasive Jump
+- Everyone else switch to Dodge Roll
+- Tanks swap to Knight Helmet (3 1)
+- Main Tank swap to Black Monk Stave (1 3 1 2) and switch to Toughness
+- Second Tank switch to Guard Rune
+- Great Arcane Staff swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
+- Main Healer swap to Holy Staff (1 2 1 1)
+- Party Healers swap Fallen Staff (3 5 1 1)
+- Blazing Staff swap to single target DPS
+- No one use DoT attacks
+
+## High Priestess (piñata/free boss)
+
+[High Priestess Mechanics](../../mechanics/avalonian-dungeons/high-priestess/)
+
+> **Update Notes**
+> Pity needs to be purged.
+> Shadows need to be silenced and frozen and killed ASAP.
+
+- Cleanse (Motivating Cleanse, Cleanse Heal, leather hoods) and move to circle
+- Everyone who is stunned must be in the circle when the channel starts
+- At 50% channel, Second Tank Q silence (Sacred Group) and Enfeeble Aura
+- Also at 50% channel, DPS pre-stack
+- Main Tank hammer (full CC), E stun
+- Debuff (Shadowcaller, Shrinking Curse etc.) and DPS
+- Must kill Shadows before stun expires; can extend with silence (Hellion Hood, Arcane Staff etc.)
+- Cooldown (arcane staffs Mimic frost staff Glacial Obelisk)
+- Defensives (Enigmatic Staff, Judicator Armor, Guard Rune etc.)
+- Repeat (do not move to second circle; do move to third circle)
+
+### Notes
+
+- The key to burst Second Tank pre-silence Q just before Shadows spawn, then Hellion Hood silence, step back and Incubus E.
+
 ## Sir Bedivere
+
+[Sir Bedivere Mechanics](../../mechanics/avalonian-dungeons/sir-bedivere/)
+
 - Everyone swap to Guardian Helmets (3 1)
 - Royal Shoes switch to Evasive Jump
 - Everyone else switch to Dodge Roll

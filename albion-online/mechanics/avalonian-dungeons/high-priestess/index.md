@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Priestess
-permalink: /albion-online/mechanics/avalonian-dungeons/priestess/
+title: Avalonian High Priestess
+permalink: /albion-online/mechanics/avalonian-dungeons/high-priestess/
+redirect_from: /albion-online/mechanics/avalonian-dungeons/priestess/
 ---
 
-# Avalonian Priestess (free boss)
+# Avalonian High Priestess (free boss)
 
-| Stage | Health | Mechanics |
-| ----- | ------ | --------- |
-| 1 | 100–95% | Divine Authority, Divine Entrance, Divine Offering, Exorcism and Purify |
-| 2 | 95–66% | Pity is added; each mark applies a 17-second lockout on the next cast |
-| 3 | 66–33% | Pity’s lockout falls to 10 seconds |
-| 4 | 33–0% | Pity’s lockout is removed; its 3-second base cooldown remains |
+| Stage | Health  | Mechanics                                                               |
+| ----- | ------- | ----------------------------------------------------------------------- |
+| 1     | 100–95% | Divine Authority, Divine Entrance, Divine Offering, Exorcism and Purify |
+| 2     | 95–66%  | Pity added; each mark applies a 17-second lockout on the next cast      |
+| 3     | 66–33%  | Pity’s lockout falls to 10 seconds                                      |
+| 4     | 33–0%   | Pity’s lockout is removed; its 3-second base cooldown remains           |
 {: .nowrap-1 .nowrap-2 }
 
 The health changes above affect **Pity**. The main encounter follows a repeating summon-and-purification cycle: **Divine Offering → Exorcism → Tainted Shadows → Purify**. Divine Entrance becomes available after **1 second**, Divine Offering after **6 seconds**, and Exorcism after **10 seconds** of combat. These are earliest eligibility times; casts and other actions can delay them. Pity’s shorter lockouts apply **below** 66% and 33%, respectively.
 
-## Priestess’s abilities
+## High Priestess’s abilities
 
 - Divine Authority
 - Divine Entrance
@@ -26,12 +27,12 @@ The health changes above affect **Pity**. The main encounter follows a repeating
 - Pity
 - Purify
 - Tainted Shadows
-  - Inner Corruption
-  - Position Swap
-  - Seeking Corruption
-  - Shadow Nova
-  - Sundered Defenses
-  - Corrupting Essence
+	- Inner Corruption
+	- Position Swap
+	- Seeking Corruption
+	- Shadow Nova
+	- Sundered Defenses
+	- Corrupting Essence
 
 ### Divine Authority
 
