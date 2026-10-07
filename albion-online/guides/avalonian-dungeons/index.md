@@ -6,7 +6,7 @@ permalink: /albion-online/guides/avalonian-dungeons/
 
 # Avalonian Dungeons
 
-[Builds](../../builds/avalonian-dungeons/) • [Boss Mechanics](../../mechanics/)
+[Builds](../../builds/avalonian-dungeons/) • [Boss Mechanics](../../mechanics/avalonian-dungeons/)
 
 ## Roles
 
@@ -21,7 +21,8 @@ permalink: /albion-online/guides/avalonian-dungeons/
 - DPS
 - DPS
 
-## Archmage (dancing queen)
+---
+## Archmage
 
 [Archmage Mechanics](../../mechanics/avalonian-dungeons/archmage/)
 
@@ -42,6 +43,7 @@ permalink: /albion-online/guides/avalonian-dungeons/
 
 - If stuck in the beam, walk or Dodge Roll toward/through it
 
+---
 ## Construct
 
 [Construct Mechanics](../../mechanics/avalonian-dungeons/construct/)
@@ -58,6 +60,7 @@ permalink: /albion-online/guides/avalonian-dungeons/
 ### Notes
 - 10 most experienced players are runners
 
+---
 ## Crystal Basilisk
 
 [Crystal Basilisk Mechanics](../../mechanics/avalonian-dungeons/crystal-basilisk/)
@@ -78,6 +81,7 @@ permalink: /albion-online/guides/avalonian-dungeons/
 - Second explosion occurs after 15 seconds; call for defensives at 12 seconds
 - Only bring cleanse to tank after second explosion
 
+---
 ## Knight Captain
 
 [Knight Captain Mechanics](../../mechanics/avalonian-dungeons/knight-captain/)
@@ -93,7 +97,8 @@ permalink: /albion-online/guides/avalonian-dungeons/
 - Blazing Staff swap to single target DPS
 - No one use DoT attacks
 
-## High Priestess (piñata/free boss)
+---
+## High Priestess
 
 [High Priestess Mechanics](../../mechanics/avalonian-dungeons/high-priestess/)
 
@@ -116,6 +121,7 @@ permalink: /albion-online/guides/avalonian-dungeons/
 
 - The key to burst Second Tank pre-silence Q just before Shadows spawn, then Hellion Hood silence, step back and Incubus E.
 
+---
 ## Sir Bedivere
 
 [Sir Bedivere Mechanics](../../mechanics/avalonian-dungeons/sir-bedivere/)

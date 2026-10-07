@@ -5,7 +5,9 @@ permalink: /albion-online/mechanics/avalonian-dungeons/high-priestess/
 redirect_from: /albion-online/mechanics/avalonian-dungeons/priestess/
 ---
 
-# Avalonian High Priestess (free boss)
+# Avalonian High Priestess
+
+![Avalonian High Priestess](assets/avalonian-high-priestess.png)
 
 | Stage | Health  | Mechanics                                                               |
 | ----- | ------- | ----------------------------------------------------------------------- |

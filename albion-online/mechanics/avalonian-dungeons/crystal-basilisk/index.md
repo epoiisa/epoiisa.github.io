@@ -7,6 +7,8 @@ redirect_from: /albion-online/mechanics/avalonian-dungeons/basilisk/
 
 # Avalonian Crystal Basilisk
 
+![Avalonian Crystal Basilisk](assets/avalonian-crystal-basilisk.png)
+
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |
 | 1 | 100–60% | Bite Attack, Petrify, Tailsmash and Cleansing Fire; Windwall becomes available at 90% |

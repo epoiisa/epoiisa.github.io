@@ -25,6 +25,7 @@ permalink: /albion-online/guides/dragon-sanctuary/
 - Blazing Staff
 - 9 × other DPS (Weeping Repeater preferred)
 
+---
 ## Clear
 
 - **Support Tank.** Use Threatening Smash (Q), Taunt (R) and Authority (passive) to help the Main Tank keep threat off party other members.
@@ -34,6 +35,7 @@ permalink: /albion-online/guides/dragon-sanctuary/
 - **Ironroot Staffs.** Use Motivating Cleanse (W) on players stunned by the Thundering Javelin (3 second stun).
 - **Enigmatic Staffs.** Use Motivating Cleanse (W) on players stunned by the Thundering Javelin (3 second stun) and use Protective Beam (E) on players targeted by the follow-up Mark of the Hunt/Forrest of Spears.
 
+---
 ## Maeve
 
 - **Main Tank.** Stay moving in a tight circle around Maeve and prioritise dodging Realm Rift to avoid accumulating stacks. Use Acid Potions on Maeve throughout the fight when party DPS is focused on Maeve.
@@ -69,6 +71,7 @@ permalink: /albion-online/guides/dragon-sanctuary/
 - **Everyone.** Use Dragonslayer Jacket to cover the first and second or the second and third damage pulses.
 - **Everyone.** Use Soldier Helmet and Gigantify Potions to cover the second and third damage pulses.
 
+---
 ## Azaryon
 
 - **Support Tank.** Use Cartwheel (Q) for mobility only. At 20%, save Forceful Swing (W), Fatal Blade (E) and Guardian Armor for Meltdown.

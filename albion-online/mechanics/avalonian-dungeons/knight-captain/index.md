@@ -7,6 +7,8 @@ redirect_from: /albion-online/mechanics/avalonian-dungeons/knight-commander/
 
 # Avalonian Knight Captain
 
+![Avalonian Knight Captain](assets/avalonian-knight-captain.png)
+
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |
 | 1 | 100–85% | Fate of the Impure, Fateful Swings and Two-Handed Swing |

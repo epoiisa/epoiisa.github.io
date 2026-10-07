@@ -6,6 +6,8 @@ permalink: /albion-online/mechanics/dragon-sanctuary/maeve/
 
 # Maeve, the Unfettered Oracle
 
+![Maeve, the Unfettered Oracle](assets/maeve.png)
+
 | Stage | Health  | Mechanics                                                                            |
 | ----- | ------- | ------------------------------------------------------------------------------------ |
 | 1     | 100–80% | Three boulders, Boulder Charge (dash), Boulder Stomp (sparkles/darts) and Realm Rift |

@@ -16,6 +16,12 @@ Renamed Avalonian boss pages declare their former URLs with `redirect_from`. The
 
 Ruby, Bundler and Python 3 are required. From the repository root:
 
+Double-click `preview.command` in Finder, or run `bash preview.command serve`, to start the local preview at <http://127.0.0.1:8767/>. The launcher installs missing gems into `.preview/gems`, opens Safari after the first build, and automatically rebuilds and refreshes the browser when site files change. Keep the Terminal window open while editing; press **Control-C** to stop. Restart the preview after changing `_config.yml`. The first build needs internet access to fetch the remote theme.
+
+Run `bash preview.command build` for a build without starting the server. Output goes to `.preview/site`. Verify it with `python3 _preview/verify-theme.py .preview/site`.
+
+For additional checks, including a non-empty baseurl:
+
 ```sh
 export BUNDLE_PATH="$PWD/.preview/gems"
 export BUNDLE_GEMFILE="$PWD/_preview/Gemfile"

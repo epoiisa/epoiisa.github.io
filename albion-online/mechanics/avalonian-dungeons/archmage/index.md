@@ -4,7 +4,9 @@ title: Avalonian Archmage
 permalink: /albion-online/mechanics/avalonian-dungeons/archmage/
 ---
 
-# Avalonian Archmage (dancing queen)
+# Avalonian Archmage
+
+![Avalonian Archmage](assets/avalonian-archmage.png)
 
 | Stage | Health  | Mechanics                                                                                    |
 | ----- | ------- | -------------------------------------------------------------------------------------------- |

@@ -6,6 +6,8 @@ permalink: /albion-online/mechanics/avalonian-dungeons/construct/
 
 # Avalonian Construct
 
+![Avalonian Construct](assets/avalonian-construct.png)
+
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |
 | 1 | 100–90% | Devastating Smashes and movement-triggered Debris; Colossal Swipe becomes available after 12 seconds |

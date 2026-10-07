@@ -6,6 +6,8 @@ permalink: /albion-online/mechanics/avalonian-dungeons/sir-bedivere/
 
 # Sir Bedivere
 
+![Sir Bedivere](assets/sir-bedivere.png)
+
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |
 | 1 | First health bar, 100–50% | Avalonian Cleave and Fate of the Unworthy; Earthbreaker unlocks at 85%, five-blade Bladestorm at 80% |

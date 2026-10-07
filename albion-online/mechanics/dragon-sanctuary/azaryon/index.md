@@ -6,6 +6,8 @@ permalink: /albion-online/mechanics/dragon-sanctuary/azaryon/
 
 # Azaryon, the Fire Dragon
 
+![Azaryon, the Fire Dragon](assets/azaryon.png)
+
 | Stage | Health  | Mechanics                                                                             |
 | ----- | ------- | ------------------------------------------------------------------------------------- |
 | 1     | 100–80% | Fire Breath, full Giant Rupture sequence, Inferno                                     |
