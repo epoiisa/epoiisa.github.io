@@ -13,7 +13,7 @@ permalink: /albion-online/mechanics/dragon-sanctuary/maeve/
 | 1     | 100–80% | Three boulders, Boulder Charge (dash), Boulder Stomp (sparkles/darts) and Realm Rift |
 | 2     | 80–60%  | Rock Spikes (red arrow on target)                                                    |
 | 3     | 60–40%  | Storm Pulse, Storm Spires (shards), Storm Coil                                       |
-| 4     | 40–0%   | Three additional boulders, second Rock Spike target, Primal Dragon Flame             |
+| 4     | 40–0%   | Two additional boulders (five total), second Rock Spike target, Primal Dragon Flame             |
 {: .nowrap-1 .nowrap-2 }
 
 Rock Spike starts at **80% health or 120 seconds**, whichever comes first. A second Rock Spike target is added at **40% or 240 seconds**, if at least six targets are on Maeve’s threat list. Primal Dragon Flame starts at **40% or 300 seconds**.
@@ -42,7 +42,7 @@ The debuff lasts **100 seconds** and can reach **15 stacks**. Its damage increas
 
 ![Boulder Charge](assets/boulder-charge.png)
 
-A boulder prepares for roughly **1.6 seconds**, then charges along its path. The moving boulder deals physical damage and knocks players back; its landing area can also damage and displace nearby players.
+A boulder prepares for roughly **1.6 seconds**, then charges along its path. The moving boulder deals physical damage and knocks players back; its landing area can also damage and displace nearby players. Temporary immunity between the charge and landing effects prevents unintended overlapping damage from the same charge.
 
 Boulders can select players across the arena, with a preference for a distant target when one is available. They can also charge back toward positions around Maeve when the encounter repositions them. Do not assume a returning boulder is harmless.
 
@@ -61,6 +61,8 @@ The outward projectiles travel roughly **32 metres**. A damaging projectile hit 
 A large circle marks a Storm Spire’s arrival. After roughly **3 seconds of warning**, an expanding ring sweeps outward over about **1.3 seconds**, dealing magic damage and interrupting casting on a hit. The ground warning is about **15 metres in radius**.
 
 The Storm Spire appears as part of this sequence and is briefly protected while spawning. The initial expanding pulse is distinct from the spire’s later **Storm Coil**.
+
+Storm Spires become available at **60% health**, with a configured **55-second interval** between summons. Target availability and encounter scheduling can delay the next appearance.
 
 ### Storm Coil
 
