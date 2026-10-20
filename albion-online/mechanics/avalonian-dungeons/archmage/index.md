@@ -4,9 +4,13 @@ title: Avalonian Archmage
 permalink: /albion-online/mechanics/avalonian-dungeons/archmage/
 ---
 
-# Avalonian Archmage
+<div style="text-align: center; margin: 1em auto">
 
-![Avalonian Archmage](assets/avalonian-archmage.png)
+<img src="assets/avalonian-archmage.png" alt="Avalonian Archmage">
+
+<h1>Avalonian Archmage</h1>
+
+</div>
 
 | Stage | Health  | Mechanics                                                                                    |
 | ----- | ------- | -------------------------------------------------------------------------------------------- |

@@ -4,9 +4,13 @@ title: Sir Bedivere
 permalink: /albion-online/mechanics/avalonian-dungeons/sir-bedivere/
 ---
 
-# Sir Bedivere
+<div style="text-align: center; margin: 1em auto">
 
-![Sir Bedivere](assets/sir-bedivere.png)
+<img src="assets/sir-bedivere.png" alt="Sir Bedivere">
+
+<h1>Sir Bedivere</h1>
+
+</div>
 
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |

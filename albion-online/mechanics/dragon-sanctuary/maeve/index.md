@@ -4,9 +4,13 @@ title: Maeve, the Unfettered Oracle
 permalink: /albion-online/mechanics/dragon-sanctuary/maeve/
 ---
 
-# Maeve, the Unfettered Oracle
+<div style="text-align: center; margin: 1em auto">
 
-![Maeve, the Unfettered Oracle](assets/maeve.png)
+<img src="assets/maeve.png" alt="Maeve, the Unfettered Oracle">
+
+<h1>Maeve, the Unfettered Oracle</h1>
+
+</div>
 
 | Stage | Health  | Mechanics                                                                            |
 | ----- | ------- | ------------------------------------------------------------------------------------ |

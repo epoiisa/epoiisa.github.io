@@ -5,9 +5,13 @@ permalink: /albion-online/mechanics/avalonian-dungeons/crystal-basilisk/
 redirect_from: /albion-online/mechanics/avalonian-dungeons/basilisk/
 ---
 
-# Avalonian Crystal Basilisk
+<div style="text-align: center; margin: 1em auto">
 
-![Avalonian Crystal Basilisk](assets/avalonian-crystal-basilisk.png)
+<img src="assets/avalonian-crystal-basilisk.png" alt="Avalonian Crystal Basilisk">
+
+<h1>Avalonian Crystal Basilisk</h1>
+
+</div>
 
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |

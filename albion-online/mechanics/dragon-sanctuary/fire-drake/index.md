@@ -4,9 +4,13 @@ title: Fire Drake
 permalink: /albion-online/mechanics/dragon-sanctuary/fire-drake/
 ---
 
-# Fire Drake
+<div style="text-align: center; margin: 1em auto">
 
-![Fire Drake](assets/fire-drake.png)
+<img src="assets/fire-drake.png" alt="Fire Drake">
+
+<h1>Fire Drake</h1>
+
+</div>
 
 The Dragon Sanctuary Fire Drake has **one continuous stage**. Its attacks unlock through elapsed time, health thresholds and target distance, rather than through separate health phases.
 

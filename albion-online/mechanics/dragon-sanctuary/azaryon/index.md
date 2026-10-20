@@ -4,9 +4,13 @@ title: Azaryon, the Fire Dragon
 permalink: /albion-online/mechanics/dragon-sanctuary/azaryon/
 ---
 
-# Azaryon, the Fire Dragon
+<div style="text-align: center; margin: 1em auto">
 
-![Azaryon, the Fire Dragon](assets/azaryon.png)
+<img src="assets/azaryon.png" alt="Azaryon, the Fire Dragon">
+
+<h1>Azaryon, the Fire Dragon</h1>
+
+</div>
 
 | Stage | Health  | Mechanics                                                                             |
 | ----- | ------- | ------------------------------------------------------------------------------------- |

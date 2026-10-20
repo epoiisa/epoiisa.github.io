@@ -4,9 +4,13 @@ title: Avalonian Construct
 permalink: /albion-online/mechanics/avalonian-dungeons/construct/
 ---
 
-# Avalonian Construct
+<div style="text-align: center; margin: 1em auto">
 
-![Avalonian Construct](assets/avalonian-construct.png)
+<img src="assets/avalonian-construct.png" alt="Avalonian Construct">
+
+<h1>Avalonian Construct</h1>
+
+</div>
 
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |

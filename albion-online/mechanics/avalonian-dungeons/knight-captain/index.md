@@ -5,9 +5,13 @@ permalink: /albion-online/mechanics/avalonian-dungeons/knight-captain/
 redirect_from: /albion-online/mechanics/avalonian-dungeons/knight-commander/
 ---
 
-# Avalonian Knight Captain
+<div style="text-align: center; margin: 1em auto">
 
-![Avalonian Knight Captain](assets/avalonian-knight-captain.png)
+<img src="assets/avalonian-knight-captain.png" alt="Avalonian Knight Captain">
+
+<h1>Avalonian Knight Captain</h1>
+
+</div>
 
 | Stage | Health | Mechanics |
 | ----- | ------ | --------- |

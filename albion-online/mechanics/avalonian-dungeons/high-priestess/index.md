@@ -5,9 +5,13 @@ permalink: /albion-online/mechanics/avalonian-dungeons/high-priestess/
 redirect_from: /albion-online/mechanics/avalonian-dungeons/priestess/
 ---
 
-# Avalonian High Priestess
+<div style="text-align: center; margin: 1em auto">
 
-![Avalonian High Priestess](assets/avalonian-high-priestess.png)
+<img src="assets/avalonian-high-priestess.png" alt="Avalonian High Priestess">
+
+<h1>Avalonian High Priestess</h1>
+
+</div>
 
 | Stage | Health  | Mechanics                                                               |
 | ----- | ------- | ----------------------------------------------------------------------- |
