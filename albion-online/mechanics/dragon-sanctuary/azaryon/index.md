@@ -112,7 +112,7 @@ Targeted meteors mark a circle with roughly **2 seconds’ warning** before impa
 
 ![Fire Wall](assets/fire-wall.png)
 
-Azaryon marks players for a line of fire. The marker follows its target for **4.5 seconds**, then fixes the wall’s position. A further **1.5-second ground warning** gives players time to leave before activation—roughly **6 seconds after marking**. The wall can persist for about **60 seconds** unless an encounter cleanup removes it. The fire deals damage, adds burning damage over time and can fear players it damages.
+Azaryon marks players with a blue arrow. The marker follows its target for **4.5 seconds**, then fixes the wall’s position. A further **1.5-second ground warning** gives players time to leave before activation—roughly **6 seconds after marking**. The wall can persist for about **60 seconds** unless an encounter cleanup removes it. The fire deals damage, adds burning damage over time and can fear players it damages.
 
 ### Oppressing Roar
 
